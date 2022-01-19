@@ -1,3 +1,7 @@
+---
+order: 70
+---
+
 # Treasury
 
 The Treasury is the main Governance institution in Atheos. Most of the governance functions will start under the control of Atheos' development team, and its governance will be gradually decentralized. (For further details refer to the DeGov section.) The treasury will govern the functioning of:
