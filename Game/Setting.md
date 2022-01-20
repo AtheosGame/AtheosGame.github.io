@@ -1,4 +1,4 @@
 ---
 label: Game Setting
-order: 90
+order: 80
 ---
