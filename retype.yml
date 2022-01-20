@@ -2,7 +2,7 @@ input: .
 output: .retype
 url: # Add your website address here
 branding:
-  logo: logo.jfif
+  logo: static/logo.jfif
   title: Atheos
   label: Docs
 links:
