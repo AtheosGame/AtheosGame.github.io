@@ -20,7 +20,7 @@ Governance: We want to provide the Atheos community with an unprecedented opport
 Cosmetic Store: Users will be able to buy cosmetic items directly from the store. There will be cosmetic items for characters, sanctuaries and guilds. Limited cosmetic items will be released periodically.
 The following schematic represents how ARPG interacts within the Atheos ecosystem:
 
-![]/atheosgraph1
+![]/(atheosgraph1.png)
 
 
 ### SOUL TOKEN
