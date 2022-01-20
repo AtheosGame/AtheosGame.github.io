@@ -29,4 +29,15 @@ Each Organ will grant you a unique ability. E.g. ‘Blaze Dragon’s lungs’ al
 *You can swap Organs before every run, but never during a run.
 
 
+## Skins
+Skins are the most important upgrade on a character, akin to a Class in similar games. 
+
+Each Skin will provide you with a special ability or attack and many perceptual buffs to the skin’s areas of expertise.
+
+There are many skins, all belonging to the humanoid version of the bosses of the game, which you as a Shadow can possess after killing them. Each focuses on one of the three aspects of the game: Damage dealing, Tanking or Support abilities. Choose wisely a skin that synergies with your Organs and items.
+
+## Inventory
+
+As a player, you have a limitless inventory in which you can store Shadows, Organs, Skins and items. But you have a limited number of slots in which to equip items (see ‘slots’). Only equipped items will affect gameplay.
+
 
