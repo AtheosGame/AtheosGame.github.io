@@ -6,7 +6,8 @@ label: Atheos
 # Atheos
 Atheos is an upcoming Action RPG video game that aims to close the gap between blockchain videogames and the traditional gaming market. 
 
-We hear and understand the gaming community.  We need real games, real playability, simplified platforms, token systems that have actual purpose and value. Above everything else, we need games that makes us want to come back to them to play them for the experience, the challenge and enjoyment.
+We hear and understand the gaming community.  We need real games, real playability, simplified platforms, token systems with purpose and actual values. 
+Above everything else, we need games that makes us want to come back to them to play them, for the experience, challenges and enjoyment.
 
 To achieve this we base our foundation in three layers: 
 
