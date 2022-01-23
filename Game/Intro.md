@@ -1,6 +1,6 @@
 ---
-label: Intro: Gameplay & Mechanics
-order: 89
+label: Introduction
+order: 88
 ---
 
 # Introduction
