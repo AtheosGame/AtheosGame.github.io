@@ -1,6 +1,6 @@
 ---
 label: Lore
-order: 95
+order: 89
 ---
 
 You are a damned soul, trapped forever in the Underworld. Or so you thought, for one day after millennia, for the first time, the gates of the Underworld open before your eyes. The Guardians are nowhere to be seen, and the God of the Dead has disappeared without notice.
