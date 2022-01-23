@@ -1,16 +1,16 @@
 ---
 label: Intro: Gameplay & Mechanics
-order: 90
+order: 88
 ---
 
-# INTRODUCTION
+# Introduction
 Atheos is a dungeon crawling action role-playing, hack-and-slash video game.
 You control a Shadow as it attempts to obtain a skin. A shapeless being that has spent so much time in the Underworld that it has forgotten all about who they were before. 
 All players begin the game with the same character, a Shadow. 
 You must venture into dungeons to acquire body parts to regain a physical body and to forge powerful items to help you in your journey.
 
 
-# GAMEPLAY & MECHANICS OVERWVIEW
+# Gameplay & Mechanics Overview
 
 The game is presented in an isometric view with you in control of the Shadow. You start a run-through of the dungeon by fighting your way through a number of levels and the challenges within; the levels are procedurally generated and the enemies within them are random. 
 
