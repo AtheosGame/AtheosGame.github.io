@@ -22,6 +22,7 @@ Every successful level completion is performed to enhance an item as the objecti
 
 Each level you clear adds one irremovable upgrade to it, the more levels you clear the more upgrades it will have. (Up to 7)
 
-Each time you succeed a level run you will be rewarded an unique NFT item which you use, trade or smelt.  But, if you die, you automatically exit the dungeon and lose the item you were running for. Nothing else is lost.
+Each time you succeed a level run you will be rewarded an unique NFT item which you can use, trade or smelt.  But, if you die, you automatically exit the dungeon and lose the item you were running for. Nothing else is lost.
 
-Health and Mana are maintained from room to room, therefore careful management of these resources is paramount. The cooldown of abilities is restored, to avoid forcing players to become idle players before finishing a clear.
+Health and Mana are maintained from room to room, therefore careful management of these resources is paramount to survival. 
+The cooldown of abilities is restored, to avoid forcing players to become idle players before the start of the next level.
