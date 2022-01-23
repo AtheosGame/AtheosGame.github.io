@@ -1,5 +1,5 @@
 ---
-label: Lore
+label: Lore Intro
 order: 89
 ---
 
