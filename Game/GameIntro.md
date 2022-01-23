@@ -10,7 +10,7 @@ All players begin the game with the same character, a Shadow.
 You must venture into dungeons to acquire body parts to regain a physical body and to forge powerful items to help you in your journey.
 
 
-# GAMEPLAY & MECHANICS
+# GAMEPLAY & MECHANICS OVERWVIEW
 
 The game is presented in an isometric view with you in control of the Shadow. You start a run-through of the dungeon by fighting your way through a number of levels and the challenges within; the levels are procedurally generated and the enemies within them are random. 
 
