@@ -3,18 +3,18 @@ label: Dungeon Runs
 order: 100
 ---
 # THE DUNGEON RUN
-The core game loop is as follows:  
+**Core game loop**: 
 
-Use $SOULS to buy Dungeon Maps from the game's NPCs or through trading.  
+* Use $SOULS to buy Dungeon Maps from the game's NPCs or through trading.  
 (Initiation map cost = 0)   
 
-Choose one item you wish to enhance for the selected dungeon map run.  
+* Choose one item you wish to enhance for the selected dungeon map run.  
 
-Clear up to 7 levels to add up to seven unique modifiers to said item.  
+* Clear up to 7 levels to add up to seven unique modifiers to said item.  
 
-Mint and keep the NFT item after a level clear success or continue at your own risk but remember, if you fail before you complete the level your item will be lost forever.
+* Keep the NFT item after a successful level clear or continue at your own risk.
 
-A dungeon run has the following steps, always in this order:
+**Player Journey:**
 
 1. USE DUNGEON MAP: Use a Map that leads to a specific dungeon with specific characteristics, each dungeon has a theme and a unique Boss.
  
