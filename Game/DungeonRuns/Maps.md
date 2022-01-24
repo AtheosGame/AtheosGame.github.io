@@ -9,7 +9,7 @@ Dungeon Maps can be purchased via the vendor NPC for a fixed soul price dependin
 
 There are three types of maps:
 
-**1. Seasonal maps:** These are not unique and can always be bought at the vendor with $SOULS. These maps lead to the common Dungeons of the game. Any number of players can use them and repeat them as many times as they wish.
+**1. Seasonal maps:** These are not unique and can always be bought/sold at the vendor for $SOULS. These maps lead to the common Dungeons of the game. Any number of players can use them and repeat them as many times as they wish.
 
 **2. Unique maps:** These are unique maps that can be found as droppable loot during dungeon runs, they have a limited number of uses.
 
