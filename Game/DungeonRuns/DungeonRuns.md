@@ -5,7 +5,8 @@ order: 100
 # THE DUNGEON RUN
 The core game loop is as follows:  
 
-Use $SOULS to buy Dungeon Maps from the game's NPCs or through trading. (Initiation map cost = 0)   
+Use $SOULS to buy Dungeon Maps from the game's NPCs or through trading.  
+(Initiation map cost = 0)   
 
 Choose one item you wish to enhance for the selected dungeon map run.  
 
