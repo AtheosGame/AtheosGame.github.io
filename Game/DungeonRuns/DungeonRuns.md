@@ -7,11 +7,8 @@ order: 100
 
 * Use $SOULS to buy Dungeon Maps from the game's NPCs or through trading.  
 (Initiation map cost = 0)   
-
 * Choose one item you wish to enhance for the selected dungeon map run.  
-
 * Clear up to 7 levels to add up to seven unique modifiers to said item.  
-
 * Keep the NFT item after a successful level clear or continue at your own risk.
 
 **Player Journey:**
