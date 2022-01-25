@@ -1,6 +1,6 @@
 ---
 order: 100
-label: PvE $ PvP
+label: PvE & PvP
 ---
 
 Atheos will be built by phases, starting with the single player experience and then creating private and public areas for players to gather and interact together in many ways such as trading, dueling etc.
