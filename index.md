@@ -4,7 +4,7 @@ order: 100
 label: Atheos
 ---
 # Atheos
-Atheos is an **Action RPG** video game in the making that aims to close the gap between blockchain videogames and the traditional gaming market.
+Atheos is an **Action RPG** video game in the making that aims to close the gap between blockchain video games and the traditional gaming market.
 
 We hear and understand the gaming community. We need real games, real playability, simplified platforms, token systems with purpose and actual values. Above everything else, we need games that make us want to come back to play them, for the challenges, experiences and overall enjoyment.
 
@@ -14,8 +14,7 @@ We will **Fight to Create**, instead of **Fight to Find**. Changing completely t
 
 We want to **abandon the grind feeling** in games doing countless hours of playtime without any meaningful rewards.
 
-In Atheos the player will create unique items of metadata in the form of **Non Fungible Tokens (NFT)** every single successful level run.
-This adds several layers of complexity and uniqueness to what most people understand when it comes to the meaning of creating your own items in a game.
+Now the player will create unique items of metadata in the form of **Non Fungible Tokens (NFT)** in every successful level run.  This adds several layers of complexity and uniqueness to the concept of creating your own items in a video game.
 
 To achieve this we base our foundation in three layers:  
 * **The Game** - Lore, art direction, gameplay, mechanics, challenges and longevity.  
