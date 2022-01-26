@@ -5,11 +5,11 @@ order: 100
 # THE DUNGEON RUN
 **Core game loop**: 
 
-* Use $SOULS to buy Dungeon Maps from the game's NPCs or through trading.  
+* Use **$SOULS** to buy **Dungeon Maps** from the game's NPCs or through trading.  
 (Initiation map cost = 0)   
-* Choose one item you wish to enhance for the selected dungeon map run.  
-* Clear up to 7 levels to add up to seven unique modifiers to said item.  
-* Keep the NFT item after a successful level clear or continue at your own risk.
+* Choose **one item** you wish to enhance for the selected dungeon map run.  
+* Clear up to **7 levels** to add up to seven unique modifiers to said item.  
+* Keep the **NFT item** after a successful level clear or continue at your own risk.
 
 **Player Journey:**
 
@@ -28,6 +28,6 @@ order: 100
 7. **BOSS GATES:** The gates leading to the boss room are different, letting you know, so you can mentally prepare for what is to come. The reward has better chances of being of higher rarity too. Additionally, the boss might drop an Organ or a Skin in addition to the room’s reward.
  
 8. **MINT ITEM:** After finishing the run by killing the Final Boss or by exiting the Dungeon level early, you gain the item with all of its rewards built into it. 
-By playing, you have created a unique NFT.
+**By playing, you will be creating unique NFTs.**
 
-**DEATH:** If at any point you die, you leave the Dungeon without the item. You do not lose anything else, but you do not recover $SOULS spent to enter.
+**DEATH:** If at any point you die, you leave the Dungeon without the item. You do not lose anything else, but you do not recover **$SOULS** spent to enter.
