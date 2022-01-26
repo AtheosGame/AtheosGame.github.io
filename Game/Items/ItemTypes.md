@@ -6,7 +6,7 @@ order: 70
 # Item Types
 
 **Weapons**
-Used to attack, and can be one-handed or two-handed (i.e. cannot use shield with it). Weapons have their stats:
+Used to attack, and can be one-handed or two-handed (e.g. cannot use shield with it). Weapons have their stats:
 
 - Damage: It is a range (e.g. from 6 to 15), and each successful hit deals damage equal to one random number between that range. Modified by the character’s Strength stat.
 - Reach: How far from your character model you can hit.
