@@ -1,5 +1,5 @@
 ---
-label: Gameplay & Mechanics
+label: Overview
 order: 88
 ---
 
