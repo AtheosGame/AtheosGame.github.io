@@ -1,5 +1,5 @@
 ---
-label: Gameplay & Mechanics
+label: Dungeon Runs
 order: 95
 ---
 # THE DUNGEON RUN
