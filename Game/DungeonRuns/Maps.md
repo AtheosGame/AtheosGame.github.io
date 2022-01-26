@@ -1,6 +1,6 @@
 ---
 label: Maps
-order: 100
+order: 90
 ---
 # Maps
 Dungeon Maps are NFTs that can be owned and traded. 
