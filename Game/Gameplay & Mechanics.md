@@ -3,7 +3,7 @@ label: Gameplay & Mechanics
 order: 88
 ---
 
-# Gameplay & Mechanics
+# Overview
 Atheos is a **dungeon crawling** action role-playing, **hack-and-slash** video game.  
 
 You control a **Shadow** (Character) as it attempts to obtain a **skin** (Class). A shapeless being that has spent so much time in the Underworld that it has forgotten all about who they were before.  
