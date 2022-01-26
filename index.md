@@ -8,7 +8,7 @@ Atheos is an **Action RPG** video game in the making that aims to close the gap 
 
 We hear and understand the gaming community. We need real games, real playability, simplified platforms, token systems with purpose and actual values. Above everything else, we need games that make us want to come back to play them, for the challenges, experiences and overall enjoyment.
 
-Now every run will be meaningful with our **Item Creation Engine (ICE).**
+In Atheos **every run will be meaningful** with our **Item Creation Engine (ICE).**
 
 We will **Fight to Create**, instead of **Fight to Find**. Changing completely the way we grind in the RPG genre.
 We want to abandon the grind feeling in games doing countless hours of playtime without any meaningful rewards.
