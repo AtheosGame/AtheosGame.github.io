@@ -15,15 +15,19 @@ order: 100
 
 1. **USE DUNGEON MAP:** Use a Map that leads to a specific dungeon with specific characteristics, each dungeon has a theme and a unique Boss.
  
-2. **ITEM CHOICE:** Choose a base item you wish to upgrade. If you are successful in your dungeon level, you will obtain an NFT item with the enhancements made.
+2. **ITEM CHOICE:** Choose a base item you wish to upgrade. If you are successful in your dungeon level, you will obtain an NFT item with the chosen upgrades.
  
-3. **FIRST LEVEL BATTLE:** You must fight random minions in a procedurally generated room for the first reward. Upon defeating all the enemies, you gain the reward.
+3. **FIRST LEVEL BATTLE:** You must fight random monsters in a procedurally generated level for the first reward. Upon defeating all the enemies, you gain the reward.
   
-4. **FIRST LEVEL REWARD:** The first reward is random, with higher rarity chances than usual, which will make the item more desirable and encourage you to continue on. After accepting the reward, you are presented with the gates to continue.
+4. **FIRST LEVEL REWARD:** The first reward is random, with higher rarity chances than usual, which will make the item more desirable and encourage you to continue. After accepting the reward, you will be presented with 3 different Gates.
  
-5. **GATES:** You are presented with three gates, each leading to a different level with a different reward and with the exit gate. You can never go back, so deciding the right gates is an important choice for item building. Each gate will have an icon, which tells you the type of reward you can expect in the next room (e.g. you might be presented with the following three rooms in a run to gain a sword: ‘Damage increase’, ‘Fire rune’, ‘Lightning rune’). But, you cannot know the level of rarity of the reward from looking at the gate. Alternatively, if you choose the exit gate, move to the last step of the run (‘gain item’); you leave the run with the item.  
+5. **GATES:** You are presented with three gates, each leading to a different level and a different reward type. You cannot go back, so deciding the right gate is an important choice for item building. 
+Each gate has an icon, which tells you the type of reward you can expect:
+(e.g. you are presented with the following three gates: ‘Damage increase’, ‘Fire rune’, ‘Lightning rune’).  
+You cannot know the rarity of the reward from looking at the gate, only the type. Alternatively, at this point you can choose to exit the dungeon.
+
  
-6. **NEXT LEVEL:** After selecting a Gate, you enter a new procedurally generated level with random enemies, which you must defeat to gain the level's reward and be presented with three new gates leading to the next room. These steps are repeated 5 more times until you are led to the Boss's room (for a total of 7 levels per dungeon map).
+6. **NEXT LEVEL:** After your Gate selection, you enter a new procedurally generated level with random enemies, which you must defeat to gain the level's reward and be presented with three new gates leading to the next level. These steps are repeated 5 more times until you are led to the Boss's final level (for a total of 7 levels per dungeon map).
 
 7. **BOSS GATES:** The gates leading to the boss room are different, letting you know, so you can mentally prepare for what is to come. The reward has better chances of being of higher rarity too. Additionally, the boss might drop an Organ or a Skin in addition to the room’s reward.
  
