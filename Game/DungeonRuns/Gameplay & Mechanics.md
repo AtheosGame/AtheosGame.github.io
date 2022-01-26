@@ -1,6 +1,6 @@
 ---
 label: Gameplay & Mechanics
-order: 100
+order: 95
 ---
 # THE DUNGEON RUN
 **Core game loop**: 
