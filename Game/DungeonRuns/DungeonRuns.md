@@ -30,7 +30,7 @@ You cannot know the rarity of the reward from looking at the gate, only the type
 
 7. **BOSS GATES:** The gates leading to the boss's level are different, letting you know, so you can mentally prepare for what is to come. These rewards will be of higher rarity. Additionally, the boss might drop an **Organ** or a **Skin** in addition to the level's reward.
  
-8. **MINT ITEM:** After finishing the run by killing the Final Boss or by exiting the Dungeon level early, you gain the upgraded item.
+8. **MINT ITEM:** After finishing the run by killing the Final Boss or by exiting the Dungeon level early, you gain the upgraded item.  
 **By playing, you will be creating unique NFTs.**
 
 **DEATH:** If at any point you die, you leave the Dungeon without the item. You do not lose anything else, but you do not recover **$SOULS** spent to enter.
