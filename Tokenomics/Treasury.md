@@ -20,7 +20,7 @@ When the game has reached its growth stage we will begin the Revenue distributio
 - Revenue Distribution: At fixed intervals, a fixed percentage of the money inside the Vault will be used to buy $ARPG from the market, and then airdropped as a reward to all stakers.  The Treasury will govern the percentage and time intervals in the RevDis scheme. RevDis will be a permanent function of the game once it is fully deployed.
 
 
-## Souls Events
+## Treasury Events
 
 Every time a player spends Souls to buy a map 10% of the cost will go into the treasury Key Counter Reservoir (KCR), with the rest of the tokens being burned. Once the KCR reaches a specified threshold, a Treasury event will take place. Treasury events will feature limited content, namely event enemies. Defeating event enemies will reward the players with an appropriate amount of Souls from the KCR and ranking points. Once the KCR reaches zero, the event will end and rankings will be published.
 
