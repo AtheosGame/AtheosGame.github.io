@@ -16,7 +16,7 @@ The game has a **hack-and-slash** combat system. You can move, dash and attack, 
 
 Atheos gameplay is full of challenging **levels** within each **dungeon map**.  
 
-**Every successful level enhances an item by adding one irremovable upgrade.**
+**Every successful level completion enhances your item by adding one irremovable upgrade.**
 
 If you leave the dungeon alive your upgraded item will become a unique **NFT** which you can use, trade or burn. 
 
