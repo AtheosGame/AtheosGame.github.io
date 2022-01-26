@@ -14,7 +14,7 @@ We will **Fight to Create**, instead of **Fight to Find**. Changing completely t
 
 We want to **abandon the grind feeling** in games doing countless hours of playtime without any meaningful rewards.
 
-Now the player will create unique items of metadata in the form of **Non Fungible Tokens (NFT)** in every successful level run.  This adds several layers of complexity and uniqueness to the concept of creating your own items in a video game.
+Now the player will create unique items of metadata in the form of **Non Fungible Tokens (NFTs)** in every successful level run.  This adds several layers of complexity and uniqueness to the concept of creating your own items in a video game.
 
 To achieve this we base our foundation in three layers:  
 * **The Game** - Lore, art direction, gameplay, mechanics, challenges and longevity.  
