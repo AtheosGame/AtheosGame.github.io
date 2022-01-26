@@ -33,4 +33,4 @@ You cannot know the rarity of the reward from looking at the gate, only the type
 8. **MINT ITEM:** After finishing the run by killing the Final Boss or by exiting the Dungeon level early, you gain the upgraded item.  
 **By playing, you will be creating unique NFTs.**
 
-**DEATH:** If at any point you die, you leave the Dungeon without the item. You do not lose anything else, but you do not recover **$SOULS** spent to enter.
+**DEATH:** If at any point you die, you leave the Dungeon without the item.
