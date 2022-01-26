@@ -19,5 +19,4 @@ This adds several layers of complexity and uniqueness to what most people unders
 To achieve this we base our foundation in three layers:  
 * **The Game** - Lore, art direction, gameplay, mechanics, challenges and longevity.  
 * **Economy** - To create a logical ecosystem for videogame structures using blockchain.
-* **Governance** - To build a platform where users will have the options to not only voice theier issues but also participate in the future direction of the game.
-
+* **Governance** - To build a platform where users can voice their issues, and also participate in the future direction of the game.
