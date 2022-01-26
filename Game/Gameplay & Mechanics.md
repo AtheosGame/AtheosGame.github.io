@@ -22,5 +22,4 @@ If you leave the dungeon alive your upgraded item will become a unique **NFT** w
 
 However, if you die, you automatically exit the dungeon and lose the item you were running for. Nothing else is lost.
 
-**Health** and **Mana** are maintained from level to level, therefore careful management of these resources is paramount to survival but 
-the cooldown of the abilities are restored to avoid forcing players to become idle before the start of the next level.
+**Health** and **Mana** are maintained from level to level, therefore careful management of these resources is paramount to survival. The cooldown of the abilities are restored to avoid forcing players to become idle before the start of the next level.
