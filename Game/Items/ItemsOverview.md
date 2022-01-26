@@ -3,8 +3,6 @@ label: Items Overview
 order: 100
 ---
 
-## Items Overview 
-
 **How to get items in Atheos:**. 
 1) Item upgrades after every level completion.
 2) Random drops from enemies.
