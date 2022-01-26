@@ -24,11 +24,11 @@
     
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=1.11.2.696533393798" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=1.11.2.696533558199" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.696533393798" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.696533558199" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=1.11.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.696533393798" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.696533558199" defer></script>
 </head>
     <body>
         <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -212,15 +212,27 @@ $ARPG tokens bind the Atheos ecosystem together, blurring the lines between inve
 </doc-anchor-target>
 <p>$ARPG will have a limited total supply of 100 Million tokens.  $ARPG will be issued over a five-year course, following a predetermined schedule. The initial circulating supply will be of precisely 22.700.000 tokens, 22.7% of the total supply,  and it will grow up to 100 million tokens over a period of 62 months. The following schematic represents how $ARPG interacts within the Atheos ecosystem:</p>
 <p>Chart 1 -</p>
-<p>Token distribution:</p>
-<doc-anchor-target id="distribution--amount--percentage-------------------------staking-------40000000----40-">
-    <h1>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#distribution--amount--percentage-------------------------staking-------40000000----40-">#</doc-anchor-trigger>
-        <span>Distribution | Amount | Percentage
----          | ---    | ---
-Staking      | 40.000.000   | 40 %</span>
-    </h1>
-</doc-anchor-target>
+<doc-panel id="token-distribution">
+    <template #title>Token distribution:</template>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Distribution</th>
+<th>Amount</th>
+<th>Percentage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Staking</td>
+<td>40.000.000</td>
+<td>40 %</td>
+</tr>
+</tbody>
+</table>
+</div>
+</doc-panel>
 <p>The chart below showcases how we will issue $ARPG over time:</p>
 <p>Chart 2-</p>
 
