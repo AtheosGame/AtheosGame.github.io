@@ -1,5 +1,5 @@
 ---
-label: Dungeon Runs
+label: Dungeon Run
 order: 95
 ---
 # THE DUNGEON RUN
