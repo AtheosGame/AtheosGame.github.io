@@ -2,7 +2,7 @@
 label: Dungeon Levels
 order: 80
 ---
-# DUNGEON LEVELS
+# LEVELS
 
 Each dungeon level presents a unique challenge and a reward.
 
