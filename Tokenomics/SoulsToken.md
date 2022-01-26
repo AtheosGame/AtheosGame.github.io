@@ -13,9 +13,3 @@ Players will use Souls to buy maps. The price of the map will be proportionate t
 
 Players can earn Souls by completing Quests, winning PvP matches, participating in events, and can find it organically as they explore dungeons and defeat enemies. 
 Players can also burn NFT items they own to get extra Souls. This process is called Smelting and will destroy the item permanently. 
-
-## Souls Events
-Every time a player spends Souls to buy a map 10% of the cost will go into the treasury Key Counter Reservoir (KCR), with the rest of the tokens being burned. Once the KCR reaches a specified threshold, a Treasury event will take place. 
-Treasury events will feature limited content, namely event enemies. Defeating event enemies will reward the players with an appropriate amount of Souls from the KCR and ranking points. Once the KCR reaches zero, the event will end and rankings will be published.
-
-The Treasury threshold will change after each successful event. If players complete the event too quickly, the threshold will increase, and vice-versa. Thus, ensuring that the duration of the event is proportionate with the player base. 
