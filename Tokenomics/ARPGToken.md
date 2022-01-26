@@ -23,7 +23,7 @@ $ARPG will have a limited total supply of 100 Million tokens.  $ARPG will be iss
 Chart 1 -
 
 
-Token distribution:
+=== Token distribution:
 
 Distribution | Amount | Percentage
 ---          | ---    | ---
