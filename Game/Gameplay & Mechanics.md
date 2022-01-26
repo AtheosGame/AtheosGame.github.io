@@ -12,7 +12,7 @@ The game is presented in an **isometric view** with you in control of the Shadow
 
 The game has a hack and slash combat system. You can move, dash and attack, which can be melee or ranged depending on your weapon, and you can trigger abilities, which will vary depending on your character and items.
 
-Atheos gameplay revolves around challenging dungeons maps with different levels within them.
+Atheos gameplay is full of challenging levels within each dungeon map.
 Every successful level completion is performed to enhance an item as the objective.
 
 Each level you clear adds one irremovable upgrade to it, the more levels you clear the more upgrades it will have. (Up to 7)
