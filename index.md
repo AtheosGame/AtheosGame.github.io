@@ -11,10 +11,11 @@ We hear and understand the gaming community. We need real games, real playabilit
 In Atheos **every run will be meaningful** with our **Item Creation Engine (ICE).**
 
 We will **Fight to Create**, instead of **Fight to Find**. Changing completely the way we grind in the RPG genre.
-We want to abandon the grind feeling in games doing countless hours of playtime without any meaningful rewards.
+
+We want to **abandon the grind feeling** in games doing countless hours of playtime without any meaningful rewards.
 
 In Atheos the player will create unique items of metadata in the form of **Non Fungible Tokens (NFT)** every single successful level run.
-This adds several layers of complexity and uniqueness to what most people understand when it comes to the meaning of creating your own NFT in our game.
+This adds several layers of complexity and uniqueness to what most people understand when it comes to the meaning of creating your own items in a game.
 
 To achieve this we base our foundation in three layers:  
 * **The Game** - Lore, art direction, gameplay, mechanics, challenges and longevity.  
