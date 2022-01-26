@@ -25,9 +25,14 @@ Chart 1 -
 
 === Token distribution:
 
-Distribution | Amount | Percentage
----          | ---    | ---
-Staking      | 40.000.000   | 40 %
+Distribution       | Amount       | Percentage
+---                | ---          | ---
+Staking            | 40.000.000   | 40 %
+Team               | 15.000.000   | 15 %
+Advisors/Alliances | 3.000.000    | 3 %
+Private Sale       | 20.000.000   | 20 %
+Public Sale        | 10.000.000   | 10 %
+Game Fund          | 12.000.000   | 12 %
 ===
 
 The chart below showcases how we will issue $ARPG over time:
