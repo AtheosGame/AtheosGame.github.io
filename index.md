@@ -15,6 +15,6 @@ We will **Fight to Create**, instead of **Fight to Find**. Changing completely t
 Now the player will create unique items of metadata in the form of **Non Fungible Tokens (NFTs)** in every successful level run. This adds several layers of complexity and uniqueness to the concept of creating your own items in a video game.
 
 To achieve this we base our foundation in three layers:  
-* **The Game** - Lore, art direction, gameplay, mechanics, challenges and longevity.  
-* **Economy** - To create a logical ecosystem for videogame structures using blockchain.
-* **Governance** - To build a platform where users can voice their issues, and also participate in the future direction of the game.
+* [**The Game**](https://atheosgame.github.io/game/overview/) - Lore, art direction, gameplay, mechanics, challenges and longevity.  
+* [**Economy**](https://atheosgame.github.io/tokenomics/intro/) - To create a logical ecosystem for videogame structures using blockchain.
+* [**Governance**](https://atheosgame.github.io/governance/fairgovernance/) - To build a platform where users can voice their issues, and also participate in the future direction of the game.
