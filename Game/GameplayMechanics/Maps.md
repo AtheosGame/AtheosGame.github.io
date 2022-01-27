@@ -9,7 +9,7 @@ Dungeon Maps can be purchased via the vendor NPC for a fixed [$SOULS](https://at
 
 There are three types of maps:
 
-**1. Seasonal maps:** These are not unique and can always be bought/sold at the vendor for [$SOULS](https://atheosgame.github.io/tokenomics/soulstoken/). These maps lead to the common Dungeons of the game which are linked to the current Season. 
+**1. Seasonal maps:** These are not unique and can always be bought/sold at the vendor for **$SOULS**. These maps lead to the common Dungeons of the game which are linked to the current Season. 
 
 **2. Unique maps:** These are unique maps that can be found as droppable loot during dungeon runs, they have a limited number of uses.
 
