@@ -4,7 +4,7 @@ order: 100
 ---
 # Shadow
 
-All players start using the main shadow character from the beginning.
+All players start using a shadow character from the beginning.
 
 Players might have more than one shadow slot and exchange items between them.   
 
