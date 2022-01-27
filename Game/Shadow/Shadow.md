@@ -10,7 +10,7 @@ Players might have more than one shadow slot and exchange items between them.
 
 Shadows have Stats and Levels, and can obtain Organs for skills and a wide variety of Weapons and Armor slots. 
 
-Finally, Shadows can imbue themselves into a **Skin** which binds their **class direction** which is **permanent**.
+Finally, Shadows can imbue themselves into a **Skin** which binds their **class direction** which is **soulbound**.
 
  **Stats:**
 
