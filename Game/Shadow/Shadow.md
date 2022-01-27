@@ -36,7 +36,7 @@ Each Organ will grant you a unique ability.  (E.g. "Blaze Dragon's" lungs allow 
 **Skins:**  
 Skins are the most important upgrade on a character, akin to a Class in similar games. 
 
-Each Skin will provide you with a special ability or attack and many perceptual buffs to the skin’s areas of expertise.
+Each Skin will provide you with a special ability or attack and many perceptual buffs to the skin's areas of expertise.
 
 There are many skins, all belonging to the humanoid version of the bosses of the game, which you as a Shadow can possess after killing them. Each focuses on one of the three aspects of the game: Damage dealing, Tanking or Support abilities. Choose wisely a skin that synergies with your Organs and items.
 
