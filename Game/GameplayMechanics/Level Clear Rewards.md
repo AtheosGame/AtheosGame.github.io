@@ -1,6 +1,6 @@
 ---
 order: 50
-label: Rewards
+label: Level Clear Rewards
 ---
 The rewards that improve items have the following levels of rarity:  
 Normal, Magical, Rare, Epic and Legendary.
