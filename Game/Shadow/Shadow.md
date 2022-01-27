@@ -13,7 +13,6 @@ Shadows have Stats and Levels, and can obtain Organs for skills and a wide varie
 Finally, Shadows can imbue themselves into a **Skin** which binds their **class direction** which is **soulbound**.
 
  **Stats:**
-
 - **Strength:** Determines how much damage you deal.
 - **Dexterity:** Determines how likely you are to hit a critical hit, and the chance to block an enemy attack if equipped with a shield
 - **Speed:** Determines how likely you are to dodge an attack, how fast (often) you attack and how fast you move through the map.
