@@ -9,7 +9,7 @@ Players can access the Forge at their **Sanctuary**
 The Forge has the following uses:
 
 **Item Burning:**  
-Burn items to obtain **$SOULS**.  
+Burn items to obtain [$SOULS](https://atheosgame.github.io/tokenomics/soulstoken/).  
 Players can see how many **$SOULS** their items are worth at any given time at the Forge. 
 The amount is calculated by the game, based on player demand and activity.
 
