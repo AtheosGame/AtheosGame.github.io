@@ -5,7 +5,7 @@ order: 95
 # THE DUNGEON RUN
 **Core game loop**: 
 
-* Use **$SOULS** to buy **Dungeon Maps** from the game's NPCs or through trading.  
+* Use [$SOULS](https://atheosgame.github.io/tokenomics/soulstoken/) to buy **Dungeon Maps** from the game's NPCs or through trading.  
 (Initiation map cost = 0)   
 * Choose **one item** you wish to enhance for the selected dungeon map run.  
 * Clear up to **7 levels** to add up to seven unique modifiers to said item.  
