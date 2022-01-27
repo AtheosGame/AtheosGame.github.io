@@ -8,7 +8,7 @@ order: 100
 
 The following schematic represents how **$ARPG** interacts within the Atheos ecosystem:
 
-**Token distribution:**
+=== **Token distribution:**
 
 Distribution       | Amount       | Percentage
 ---                | ---          | ---
@@ -18,6 +18,6 @@ Advisors/Alliances | 3.000.000    | 3 %
 Private Sale       | 20.000.000   | 20 %
 Public Sale        | 10.000.000   | 10 %
 Game Fund          | 12.000.000   | 12 %
-
+===
 
 The chart below showcases how we will issue $ARPG over time:
