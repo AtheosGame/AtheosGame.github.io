@@ -1,5 +1,5 @@
 ---
-order: 100
+order: 98
 label: ARPG Token
 ---
 # ARPG Token
