@@ -58,10 +58,10 @@ Lead Art director
 
 ||| Uraitz de Julian Garate
 
-![](luisphoto.png)
+![](uraitz.png)
 
 ||| CFO - Chief Financial Officer
-To be added
+Head of Digital Investing Application Management at Coutts - Zurich Private Bank and Founder of Blockchain Club
 |||
 
 
