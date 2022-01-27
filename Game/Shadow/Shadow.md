@@ -21,16 +21,16 @@ Finally, Shadows can imbue themselves into a **Skin** which binds their **class 
 - **Magic:** Determines the amount of Mana your character has.
 
 **Experience:**     
-After gaining a certain amount of experience the Shadow will level up, which will allow you to increase its stats. Levelling up becomes gradually harder and stats have a ceiling.
+After gaining a certain amount of experience the Shadow will level up, which will allow you to increase its stats. Leveling up becomes gradually harder and stats have a ceiling.
 
-**Organs:** 
-Certain bosses will drop Organs which you can use to build up a body for your Shadow. Organs are permeated with the monsters’ abilities, which you will be able to use. 
+**Organs:**   
+Certain bosses will drop Organs which you can use to build up a body for your Shadow. Organs are permeated with the monsters abilities, which you will be able to use. 
 
 There are four types of Organs: 
 **Cerebrums, Heart, Lung, Guts**     
 You can use one slot for each organ type. 
 
-Each Organ will grant you a unique ability.  (E.g. "Blaze Dragon's" lungs allow you to throw a fireball every 15’ while the "Lion's heart" brings you back to life with 10% health once per dungeon run).   
+Each Organ will grant you a unique ability.  (E.g. "Blaze Dragon's" lungs allow you to throw a fireball every 15' while the "Lion's heart" brings you back to life with 10% health once per dungeon run).   
 *You can swap Organs before every run, but never during a dungeon run.*
 
 
@@ -41,8 +41,7 @@ Each Skin will provide you with a special ability or attack and many perceptual 
 
 There are many skins, all belonging to the humanoid version of the bosses of the game, which you as a Shadow can possess after killing them. Each focuses on one of the three aspects of the game: Damage dealing, Tanking or Support abilities. Choose wisely a skin that synergies with your Organs and items.
 
-**Inventory:**
+**Inventory:**  
+As a player, you have a **limitless inventory** in which you can store Shadows, Organs, Skins and Items. 
 
-As a player, you have a limitless inventory in which you can store Shadows, Organs, Skins and items. But you have a limited number of slots in which to equip items (see ‘slots’). Only equipped items will affect gameplay.
-
-
+Only equipped items will affect gameplay.
