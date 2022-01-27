@@ -32,7 +32,7 @@ Product Manager, Full Stack Developer. Management, development and employment of
 
 ||| Dan Keer
 
-![](Dan.psd)
+![](Dan.jpg)
 
 ||| To be decided
 Creator of Path of Diablo. Consulted for Grinding Gears Games on Path of Exile and Blizzard on Diablo II Resurrected
