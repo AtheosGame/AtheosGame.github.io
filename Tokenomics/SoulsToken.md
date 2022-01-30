@@ -14,5 +14,6 @@ Every time a player does an in-game transaction **10% of the token's spent** wil
 *Once the game's economy has developed, players will be able to trade items in Atheos Marketplace using **$SOULS**.*
 
 ### **Acquiring $SOULS**  
-Players can earn Souls by completing Quests, winning PvP matches, participating in events, and can find it organically as they explore dungeons and defeat enemies. 
-Players can also burn NFT items they own to get extra Souls. This process is called Smelting and will destroy the item permanently. 
+Players can earn **$SOULS** by completing Quests, winning PvP matches, participating in events, and can find it organically as they explore dungeons and defeat enemies. 
+
+Players can **smelt** items they own, burning them to get extra **$SOULS**  This process is done at **The Forge**, which will destroy the item permanently. 
