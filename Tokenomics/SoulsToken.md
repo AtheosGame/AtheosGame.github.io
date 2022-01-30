@@ -3,7 +3,7 @@ label: Souls Token
 order: 95
 ---
 
-# SOULS TOKEN
+# SOULS Token
 **$SOULS** are Atheos in-game currency which will have an unlimited supply. This token will be minted and burned as players progress through the game.  
 
 ### **Spending $SOULS**   
