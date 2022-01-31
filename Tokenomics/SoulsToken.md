@@ -9,11 +9,11 @@ order: 95
 ### **Acquiring $Souls**  
 Players can earn $Souls by completing Quests, winning PvP matches, participating in events, and can find it organically as they explore dungeons and defeat enemies. 
 
-Players can **smelt** the items, burning them in exchange for $Souls.  This process is done at **The Forge**, which will destroy the item permanently. 
+Players can **smelt** the items, burning them in exchange for $Souls.  This process is done at the [Forge](https://atheosgame.github.io/game/commongrounds/the-forge/), which will destroy the item permanently. 
 
 ### **Spending $Souls**   
-Players will spend $Souls to buy **Dungeon Maps**. The price of these maps will be proportionate to the level of the map. Higher-level maps provide more challenging experiences and will offer with better loot rewards. 
+Players will spend $Souls to buy [Dungeon Maps](https://atheosgame.github.io/game/gameplaymechanics/maps/). The price of these maps will be proportionate to the level of the map. Higher-level maps provide more challenging experiences and will offer with better loot rewards. 
 
-Every time a player does an in-game transaction **10% of the token's spent** will be transferred back to the **Treasury**.
+Every time a player does an in-game transaction **10% of the token's spent** will be transferred back to the [Treasury](https://atheosgame.github.io/tokenomics/treasury/).
 
 *Once the game's economy has developed, players will be able to trade items in Atheos Marketplace using $Souls.*
