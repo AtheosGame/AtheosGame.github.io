@@ -4,6 +4,7 @@ order: 92
 
 # Staking
 **What is Staking?**  
+
 Staking is the process of committing tokens into a **Smart Contract**, done to showcase long term support for a product. Stakers will receive various rewards for their support, in the form of newly minted tokens. Atheos offers a variety of "Lock" opportunities, where you lock your tokens to increase the rewards proportionally to the locking period.   
 
 [$ARPG](https://atheosgame.github.io/tokenomics/arpgtoken/) holders will be able to stake their tokens and receive the following rewards:
@@ -13,3 +14,9 @@ Staking is the process of committing tokens into a **Smart Contract**, done to s
 - Once the game matures a **Revenue Distribution** scheme [(RevDis)](https://atheosgame.github.io/tokenomics/treasury/) will be implemented.
 
 
+=== Token distribution:
+
+Distribution       | Amount       | Percentage
+---                | ---          | ---
+Staking            | 40.000.000   | 40 %
+===
