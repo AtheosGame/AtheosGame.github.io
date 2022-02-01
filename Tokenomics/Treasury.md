@@ -8,7 +8,7 @@ The Treasury is the main **Governance** institution in Atheos. Most of the gover
 
 The treasury will govern the function of:  
 - [Staking pools:](https://atheosgame.github.io/tokenomics/staking/) and their rewards.
-- [Treasury Events:](https://atheosgame.github.io/tokenomics/soulstoken/) Souls events are special dungeon challenges that are generated each time the player base spends a certain amount of **$SOULS**.
+- [Treasury Events:](https://atheosgame.github.io/tokenomics/soulstoken/) Souls events are special dungeon challenges that are generated each time the player base spends a certain amount of $SOULS.
 - [Game Fund:](https://atheosgame.github.io/tokenomics/gamefund/) The game fund will be used to pay for tournaments, airdrops, governance rewards and other events. Initially, the fund will receive a small percentage of the total token supply, later on, it will receive a percentage of the **RevDis**.
 - **Revenue Distribution Scheme (RevDis).** Once implemented the treasury fund will be responsible for the Revenue Distribution scheme (RevDis). The treasury fund will be financed through marketplace fees.
 
