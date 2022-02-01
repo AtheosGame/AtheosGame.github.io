@@ -24,11 +24,11 @@
     
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=1.11.2.697043262076" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=1.11.2.697047892222" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.697043262076" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.697047892222" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=1.11.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.697043262076" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.697047892222" defer></script>
 </head>
     <body>
         <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -208,8 +208,17 @@
     </h3>
 </doc-anchor-target>
 <p>Players will spend $Souls to buy <a href="https://atheosgame.github.io/game/gameplaymechanics/maps/">Dungeon Maps</a>. The price of these maps will be proportionate to the level of the map. Higher-level maps provide more challenging experiences and will offer with better loot rewards.</p>
-<p>Every time a player does an in-game transaction <strong>10% of the token&#x27;s spent</strong> will be transferred back to the <a href="https://atheosgame.github.io/tokenomics/treasury/">Treasury</a>.</p>
+<p>Every time a player does an in-game transaction involving Souls, <strong>10% of the token&#x27;s spent</strong> will be transferred back to the <a href="https://atheosgame.github.io/tokenomics/treasury/">Treasury</a> <strong>Key Counter Reservoir (KCR)</strong>, with the rest of the tokens being burned.</p>
 <p><em>Once the game&#x27;s economy has developed, players will be able to trade items in Atheos Marketplace using $Souls.</em></p>
+<doc-anchor-target id="soul-events">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#soul-events">#</doc-anchor-trigger>
+        <span>Soul Events</span>
+    </h2>
+</doc-anchor-target>
+<p>Soul Events will occur periodically, whenever the amount of tokens accumulated inside the KCR surpasses a certain treshold, by example one hundred thousand souls. The events will feature limited content, namely event enemies. Defeating event enemies will reward the players with an appropriate amount of <strong>$SOULS</strong> from the KCR and ranking points. Once the KCR reaches zero, the event will end and rankings will be published.</p>
+<p>The Treasury threshold will change after each successful event. If players complete the event too quickly, the threshold will increase, and vice-versa. Thus, ensuring that the duration of the event is proportionate with the player base.</p>
+<p>The fee percentages, and the types of events will all be subject to Treasury Governance.</p>
 
 
 
