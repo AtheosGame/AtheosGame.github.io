@@ -9,10 +9,10 @@ order: 99
 
 **Random Integer Generator - (RnG)** is a key part of item distribution in most ARPG video games.  RnG determines the mathematical chances of an item dropping as you defeat monsters.  This mechanism can give the user a very grindy experience that with time could feel too repetitive and not very rewarding.
 
-Item theory-crafting is one of our passions.
+Item theory-crafting is one of our passions.  
 We wanted to design an ARPG game with meaningful challenges that hopefully enhance the players experience with its environment. RnG would no longer be factor in the quality of items that the player is rewarded, and instead your skill and understanding of your own limitations will determine the quality of the rewards.
 
-Introducing 
+
 ### **Item Creation Engine (ICE).**
 
 **ICE is about gamifying the creation of NFTs.**
