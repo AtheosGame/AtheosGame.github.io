@@ -2,12 +2,6 @@
 label: Items Overview
 order: 95
 ---
-
-**How to get items in Atheos:**
-* Dungeon Level Runs
-* Random drops from enemies.
-* Trading.
-* Special Events.
  
 **Base Items:**  
 Players can buy or loot base items. These are non-NFT items.
