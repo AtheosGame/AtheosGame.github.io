@@ -3,7 +3,7 @@ label: Items Overview
 order: 95
 ---
 
-How to get items in Atheos:
+**How to get items in Atheos:**
 * Dungeon Level Runs
 * Random drops from enemies.
 * Trading.
