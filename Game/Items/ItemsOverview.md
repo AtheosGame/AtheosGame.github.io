@@ -1,6 +1,6 @@
 ---
 label: Items Overview
-order: 100
+order: 95
 ---
 
 **How to get items in Atheos:**. 
