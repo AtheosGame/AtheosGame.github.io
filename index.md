@@ -3,7 +3,8 @@ icon: home
 order: 100
 label: Atheos
 ---
-# Atheos
+![Atheos Logo](https://user-images.githubusercontent.com/97962756/152700711-205f5a89-ae3e-4f5d-b61a-446062e67b3c.jpg)
+
 Atheos is an **Action RPG** video game in the making that aims to close the gap between blockchain video games and the traditional gaming market.
 
 We hear and understand the gaming community. We need real games, real playability, simplified platforms, token systems with purpose and actual values. Above everything else, we need games that make us want to come back to play them, for the challenges, experiences and overall enjoyment.
