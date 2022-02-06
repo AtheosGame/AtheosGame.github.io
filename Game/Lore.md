@@ -192,6 +192,9 @@ But no more. Sol is back. She has claimed her land again, she has burned the inf
 
 And that is what the followers of Sol do, burn everyone else on their path. The Ember warriors conquer all on their path, taking all as prisoners. The Furnace Priests are in charge of their conversion, while the Blaze Judges run the courts that deem whose conversion rings true and whose deserves to fall in the hands of the Pyretioners... After the cleansing of a town, the Ash Magisters are left behind to oversee that what is left follows the doctrine of Sol, while the army marches onto their next divine mission.
 
+![Shadow Mage Concept](https://user-images.githubusercontent.com/97962756/152700518-bc799d4e-865c-4543-a388-c143fc5e7d9a.jpeg)
+
+
 # **THE CULT OF HELL**
 
 *“Our turn”*
