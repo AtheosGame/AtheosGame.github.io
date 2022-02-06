@@ -38,11 +38,13 @@ order: 5
 
 You are a damned soul, trapped forever in the Underworld...  
 
-Or so you thought, for one day after millennia, for the first time, the gates of the Underworld open before your eyes. The Guardians are nowhere to be seen, and the God of the Death has disappeared without notice.
+Or so you thought, for one day after millennia, for the first time, the gates of the Underworld open before your eyes. 
+
+The Guardians are nowhere to be seen, and the God of the Death has disappeared without notice.
 
 You are one among thousands of souls and hellish creatures to escape. 
 
-Hell has literally broken loose, and the World is filled with its cursed scourge. 
+The Underworld has literally broken loose, and the World is filled with its cursed scourge. 
 
 Creatures take over temples, dungeons, and cities that now lay in ruin - for where the living lived, now rules the dead.
 
@@ -83,8 +85,11 @@ Death is not the end. Freed, the punished dead run rampant and take vengeance up
 
 Unsupervised, the World belongs to those willing to take it.
 
+![Derlic_Final](https://user-images.githubusercontent.com/97962756/152699045-8b4e837a-cd9e-417c-8dfc-16cebf0d4e6b.jpg)
 
 # **What does death mean now?**
+
+
 
 Nothing, or everything.
 
@@ -96,21 +101,37 @@ Those who come back do so as ectoplasmic shadows and existence pains them until 
 
 Now that death does not represent the end, life has acquired a new meaning, for both the living and the no longer dead.
 
-# **The bodysnatchers**
+# **The Body Snatchers**
 
-Souls existence in the physical world is painful. Some cope with it, others are driven mad, a few decide to stay in the Underworld, but most try to take over the bodies of the living instead.
+Souls existence in the physical world is painful. 
 
-[https://lh4.googleusercontent.com/Oav7eNFDd7M2UYOg51Ny_oVJvqYEe4tzCyV48lQ3l6m53R8OAIh-mUEInA14K9tMofJhMlsHMHoDdN4tQB5BfRhd3sqLOHDVzcji7KIiKaRcMHLtDE0020YhzJQ9U9N0SmB3c6FZ](https://lh4.googleusercontent.com/Oav7eNFDd7M2UYOg51Ny_oVJvqYEe4tzCyV48lQ3l6m53R8OAIh-mUEInA14K9tMofJhMlsHMHoDdN4tQB5BfRhd3sqLOHDVzcji7KIiKaRcMHLtDE0020YhzJQ9U9N0SmB3c6FZ)
+Some cope with it, others are driven mad, a few decide to stay in the Underworld, but most try to take over the bodies of the living instead.
 
-When a freed soul kills a living being, it has a window of opportunity in which it can fill the space the previous soul leaves behind when it is taken to the Underworld. Thus, keeping the body for itself. But, it is not that simple.  The body and the soul must be somewhat compatible for this thievery to work because if the soul is too powerful for the body, it will destroy it in the process, and if the body is too powerful for the soul, it will reject it or even drive it mad if the soul clings for too long to that body. Creatures of great power, killed by an opportunistic soul when wounded, asleep or by pure luck, roam the World possessed by these deranged souls who can barely control its gigantic and monstrous frames.
+![HQ WS](https://user-images.githubusercontent.com/97962756/152699154-8d285823-843a-429e-a909-2d806d84f9ba.png)
+
+
+When a freed soul kills a living being, it has a window of opportunity in which it can fill the space the previous soul leaves behind when it is taken to the Underworld. Thus, keeping the body for itself. 
+
+But, it is not that simple...  
+
+The body and the soul must be somewhat compatible for this thievery to work... if the soul is too powerful for the body, it will destroy it in the process, and if the body is too powerful for the soul, it will reject it or even drive it mad!
+
+Creatures of great power, killed by an opportunistic soul when wounded, asleep or by pure luck, roam the World possessed by these deranged souls who can barely control their gigantic and monstrous frames.
 
 There are always those willing to sell their bodies to powerful souls in exchange for power, those who have nothing to lose and are fine with existing as disembodied shadows. For this reason, the living who value their physical bodies turn to Cults for protection.
 
-For whatever reason, the ancient souls of the shadows being played by the players are too powerful for all the bodies they find in their path. They have forgotten who they were but their souls are extremely mighty and rip to pieces all the bodies they try to inhabit. All they can do is keep some of the attributes of the most potent bodies they try to snatch, which translates into certain metamorphosis for the soul and obtaining some memories, abilities, and physical attributes of the dissevered body. Therefore, players who defeat great enemies and take over their bodies will remain shadowy figures, but with certain physical attributes absorbed from those bodies.
 
-# 
+Unexplicably the ancient souls of the shadows being played by the players are too powerful for all the bodies they find in their path. 
 
-[https://lh5.googleusercontent.com/7xVySDwOZ8uxMjQVGJJQ_PAj1MntcY4uIUWx0idTb_J3NqvIvgOZkRONbokda7qflApm9vyOcRjtQXvAyZALzt-MKpSNSIm5a5zw125ajBaKMGPrp7R_gGbWNf1P5r6fd3MCtT4R](https://lh5.googleusercontent.com/7xVySDwOZ8uxMjQVGJJQ_PAj1MntcY4uIUWx0idTb_J3NqvIvgOZkRONbokda7qflApm9vyOcRjtQXvAyZALzt-MKpSNSIm5a5zw125ajBaKMGPrp7R_gGbWNf1P5r6fd3MCtT4R)
+They have forgotten who they were but their souls are extremely mighty and rip to pieces all the bodies they try to inhabit eventually.
+
+All they can do is keep some of the attributes of the most potent bodies they try to snatch, which translates into certain metamorphosis for the soul while obtaining certain memories, abilities, and physical attributes of the dissevered body. 
+
+Players who defeat great enemies and take over their bodies will remain shadowy figures, but with certain physical attributes absorbed from those bodies.
+
+
+
+
 
 # **The Cults**
 
@@ -126,7 +147,6 @@ There are 5 of them, and they are as powerful as empires and control regions as 
 
 They are known as: The Cult of Heaven, the Cult of Locus, the Cult of Death, the Cult of Sol, and the Cult of Hell.
 
-[https://lh6.googleusercontent.com/mUVficSYCC9WSSbjB9dwMrRjEQCxJEHGXdL66KtCm58Gipu-DRBmbplAFpDiSsBFdLvNichOFcoJ9nFlI5DlYNuWEjD5OS40UVXSdfvQEfrJZEtCm9uuf-xKvev9_zntA3U_L0Ib](https://lh6.googleusercontent.com/mUVficSYCC9WSSbjB9dwMrRjEQCxJEHGXdL66KtCm58Gipu-DRBmbplAFpDiSsBFdLvNichOFcoJ9nFlI5DlYNuWEjD5OS40UVXSdfvQEfrJZEtCm9uuf-xKvev9_zntA3U_L0Ib)
 
 # **THE CULT OF HEAVEN**
 
@@ -140,7 +160,7 @@ They claim their perfect undying and eternal bliss back, and if they cannot have
 
 Their absolute leader is Gabriel, once a powerful Angel who took care of congregations of peaceful souls in Elysium. As the Gods vanished and left it abandoned, Gabriel grew angry and what everyone thought was gentleness, revealed itself to be self-glorification. It has no respect or care for any being and will do anything, to gain back his privilege.
 
-[https://lh6.googleusercontent.com/3vWwLnPfuuDK6SmERchBzs-mp_ZytKOtxYXGTBUe3d1H5K7oTbP3-S8DRnh-z-OTAJau6ycsJf-8a94zR_a2KLOSVlw7PlfOPHz1EyCKKLNPFcUkSb5pE31llwTeiAOolRLSgldj](https://lh6.googleusercontent.com/3vWwLnPfuuDK6SmERchBzs-mp_ZytKOtxYXGTBUe3d1H5K7oTbP3-S8DRnh-z-OTAJau6ycsJf-8a94zR_a2KLOSVlw7PlfOPHz1EyCKKLNPFcUkSb5pE31llwTeiAOolRLSgldj)
+
 
 # **THE CULT OF LOCUS**
 
