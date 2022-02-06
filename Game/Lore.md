@@ -131,8 +131,6 @@ Players who defeat great enemies and take over their bodies will remain shadowy 
 
 
 
-
-
 # **The Cults**
 
 In the wake of the Gods, heretic Cults take their place, feeding on desperation.
@@ -172,7 +170,6 @@ In a way, the Cult of Locus opposes most of the other Cults, as they are the gre
 
 All that the Cult of Locus asks of its members is to give their physical bodies to their Biowitches, magicians who take away all feeling from their bodies and graft them into its nests for loci,mushrooms and other small creatures who feed and grow from there. Thus, a life becomes a thousand and the wave of death is delayed another day.
 
-[https://lh4.googleusercontent.com/_br2nkH5EetnJ-uBBCe31Ul46smvNAavFMzlW8JV7ePhPJqPr58FXiYHQVIDl21-sqVLYfFUE2i9aHVzrSHjwruhp9_mC9DEnDroNRaScZUHgDghJX09nAPxG8EGrXlBW2wJwhrj](https://lh4.googleusercontent.com/_br2nkH5EetnJ-uBBCe31Ul46smvNAavFMzlW8JV7ePhPJqPr58FXiYHQVIDl21-sqVLYfFUE2i9aHVzrSHjwruhp9_mC9DEnDroNRaScZUHgDghJX09nAPxG8EGrXlBW2wJwhrj)
 
 # **THE CULT OF DEATH**
 
