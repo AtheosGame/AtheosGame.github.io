@@ -69,7 +69,7 @@ Meanwhile, the world burns. Maybe you’ll discover why during your search.
 
 ![Atheos City Top](https://user-images.githubusercontent.com/97962756/152698563-a78cf954-0d83-47e5-90c0-5d3009cd5fba.jpeg)
 
-Gone.
+**Gone**.
 
 Instantly, all of them disappear. Without a trace, without notice... With them the AntiGod, the Undead **Lord of Gehenna**, master of the Underworld, sovereign of Hell, The Counterweight, the Bones to the Flesh, the Dark Suzerain. There, waiting for the living to end to rule them forever in the afterlife. The Last Laugh. As powerful as all the Gods of the living together, before he too vanished.
 
