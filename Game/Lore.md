@@ -110,7 +110,8 @@ Souls existence in the physical world is painful.
 
 Some cope with it, others are driven mad, a few decide to stay in the Underworld, but most try to take over the bodies of the living instead.
 
-![HQ WS](https://user-images.githubusercontent.com/97962756/152699154-8d285823-843a-429e-a909-2d806d84f9ba.png)
+![White Shadow](https://user-images.githubusercontent.com/97962756/152705967-11bd232c-e2a8-4502-812a-d76b7b1613a2.jpg)
+
 
 
 When a freed soul kills a living being, it has a window of opportunity in which it can fill the space the previous soul leaves behind when it is taken to the Underworld. Thus, keeping the body for itself. 
