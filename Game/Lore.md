@@ -34,7 +34,7 @@ order: 89
 
 *Hell is unbound, and so am I.*
 
-![Black Shadow](https://user-images.githubusercontent.com/97962756/152698405-2d275b10-5064-48fa-af55-9d983d1be321.png)
+![Starting Shadow Concept](https://user-images.githubusercontent.com/97962756/152700842-2b0a487f-7cd6-4da7-88be-b20ee1ddae38.png). 
 
 
 
@@ -87,7 +87,8 @@ Death is not the end. Freed, the punished dead run rampant and take vengeance up
 
 Unsupervised, the World belongs to those willing to take it.
 
-![Derlic_Final](https://user-images.githubusercontent.com/97962756/152699045-8b4e837a-cd9e-417c-8dfc-16cebf0d4e6b.jpg)
+![Ruined Palace](https://user-images.githubusercontent.com/97962756/152700861-818ff432-8a21-4846-a7cd-66c0f3a5e25c.jpg)
+
 
 # **What does death mean now?**
 
@@ -194,7 +195,7 @@ But no more. Sol is back. She has claimed her land again, she has burned the inf
 
 And that is what the followers of Sol do, burn everyone else on their path. The Ember warriors conquer all on their path, taking all as prisoners. The Furnace Priests are in charge of their conversion, while the Blaze Judges run the courts that deem whose conversion rings true and whose deserves to fall in the hands of the Pyretioners... After the cleansing of a town, the Ash Magisters are left behind to oversee that what is left follows the doctrine of Sol, while the army marches onto their next divine mission.
 
-![Shadow Mage Concept](https://user-images.githubusercontent.com/97962756/152700518-bc799d4e-865c-4543-a388-c143fc5e7d9a.jpeg)
+![Cult of Sol - concept](https://user-images.githubusercontent.com/97962756/152700903-275eda45-285c-4f93-848d-5f101154895d.jpeg)
 
 
 # **THE CULT OF HELL**
