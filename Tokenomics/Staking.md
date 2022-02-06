@@ -23,5 +23,5 @@ Atheos will offer three different types of pools:
 
 Distribution       | Amount       | Percentage
 ---                | ---          | ---
-Staking            | 40.000.000   | 40 %
+Staking            | 30.000.000   | 30 %
 ===
