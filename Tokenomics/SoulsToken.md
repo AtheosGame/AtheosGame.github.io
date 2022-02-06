@@ -18,7 +18,7 @@ Every time a player does an in-game transaction involving Souls, **10% of the to
 
 *Once the game's economy has developed, players will be able to trade items in Atheos Marketplace using $Souls.*
 
-## Soul Events
+### Soul Events
 
 Soul Events will occur periodically, whenever the amount of tokens accumulated inside the KCR surpasses a certain treshold, by example one hundred thousand souls. The events will feature limited content, namely event enemies. Defeating event enemies will reward the players with an appropriate amount of **$SOULS** from the KCR and ranking points. Once the KCR reaches zero, the event will end and rankings will be published. 
 
