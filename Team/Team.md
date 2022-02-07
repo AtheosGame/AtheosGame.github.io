@@ -33,7 +33,7 @@ Luis has a track record of providing digital solutions for startups and major co
 
 ||| Dan Keer
 
-||| Gane Designer 
+||| Game Designer 
 Creator of Path of Diablo. Consulted for Grinding Gears Games on Path of Exile and Blizzard on Diablo II Resurrected
 |||
 
