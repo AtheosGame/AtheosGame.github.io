@@ -5,7 +5,7 @@ label: Team Members
 
 # Team Members
 
-||| Carlos 
+||| Carlos G.Q.
 
 ||| Co-Creator
 Game designer for tabletopgames and RPGs. Consultant Game Designer for Ubisoft
