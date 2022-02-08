@@ -8,7 +8,8 @@ label: Team Members
 ||| Guillermo Gomez Tapia
 
 ||| Co-Creator
-Co-founded Cubiex in 2018, a Blockchain eSports streaming platform.
+Co-founder of Cubiex in 2018, a Blockchain eSports streaming platform.
+https://www.linkedin.com/in/gomta/
 |||
 
 ||| Carlos G.Q.
@@ -16,12 +17,14 @@ Co-founded Cubiex in 2018, a Blockchain eSports streaming platform.
 ||| Co-Creator
 Game designer for various tabletopgames and RPGs. 
 Consultant Game Designer for Ubisoft.
+https://www.linkedin.com/in/carlos-gomez-quintana-97903b128/
 |||
 
 ||| Luis G.Q.
 
 ||| Co-Creator
 Luis has a track record of providing digital solutions for startups and major corporations alike. A lover of blockchain and DevOps, Luis feels at home developing and coding its way out of bottlenecks.
+https://www.linkedin.com/in/luis-gomez-quintana-lgq/
 |||
 
 ||| Lucas Gomez Alonso
