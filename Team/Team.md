@@ -15,7 +15,7 @@ https://www.linkedin.com/in/gomta/
 ||| Carlos G.Q.
 
 ||| Co-Creator
-Game designer for various tabletopgames and RPGs. 
+Game designer for various tabletopgames and RPGs.   
 Consultant Game Designer for Ubisoft.
 https://www.linkedin.com/in/carlos-gomez-quintana-97903b128/
 |||
