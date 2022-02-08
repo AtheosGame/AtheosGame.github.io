@@ -48,7 +48,7 @@ You are one among thousands of souls and hellish creatures to escape.
 
 The Underworld has literally broken loose, and the World is filled with its cursed scourge. 
 
-Creatures take over temples, dungeons, and cities that now lay in ruin - for where the living lived, now rules the dead.
+Creatures take over temples, dungeons, and cities that now lay in ruin - **for where the living lived, now rules the dead.**
 
 Where are the Gods?
 
