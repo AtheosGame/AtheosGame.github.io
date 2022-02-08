@@ -8,7 +8,7 @@ The Treasury is the main **Governance** institution in Atheos.
 
 Most of the governance functions will start under the control of Atheos development team, and its governance will be gradually decentralized. (For further details refer to the [DFG](https://atheosgame.github.io/governance/fairgovernance/).) 
 
-The Treasury will govern the follwing functions:  
+The Treasury will govern the following functions:  
 - **Treasury council:** The Treasury council's main job will be to represent the community that elected them and run the Treasury activities.
 - [Staking pools:](https://atheosgame.github.io/tokenomics/staking/) and their rewards.
 - [Treasury Events:](https://atheosgame.github.io/tokenomics/soulstoken/) Treasury events will trigger special dungeon challenges that are generated each time the player base spends a certain amount of $Souls.
