@@ -60,9 +60,9 @@ What are we to do?
 
 You do not care what the living do. You are a bodiless soul, an ethereal remnant of ether, floating through hunted lands searching for one thing and one thing only:
 
-A new skin to inhabit.
-
-As you defeat creatures and enemies of all kinds you test their bodies, but they are weak and fall to dust under the strain of your powerful soul. You must hunt bigger prey, more powerful foes, more valiant heroes.Those wearing skins worthy of you.
+**A new skin to inhabit.
+**
+As you defeat creatures and enemies of all kinds you test their bodies, but they are weak and fall to dust under the strain of your powerful soul. You must hunt bigger prey, more powerful foes, more valiant heroes. **Those wearing skins worthy of you.**
 
 Meanwhile, the world burns. Maybe you’ll discover why during your search.
 
@@ -79,13 +79,13 @@ The Gates of the Underworld now open and unguarded, without a barrier between bo
 
 **Death is now a matter of where rather than when.**
 
-Abandoned, the living turned to desperate worship creatures of all kinds that claim reign over a Godless land. Some still worship the Gods, thinking of it as one last test of their Faith. But most have given up, giving in to their deepest desires.
+Abandoned, the living turned desperately to worship creatures of all kinds that claim reign over the Godless lands. Some still worship the Gods, thinking of it as one last test of their Faith. But most have given up, giving in to their deepest desires.
 
 Societies are gone.
 
 Death is not the end. Freed, the punished dead run rampant and take vengeance upon all that is good for their millennia of suffering. Those that were granted bliss upon death, see with horror their return to the physical plane, as they claim their rightful place above everyone else by whatever means necessary.
 
-Unsupervised, the World belongs to those willing to take it.
+Unsupervised, **the World belongs to those willing to take it.**
 
 ![Ruined Palace](https://user-images.githubusercontent.com/97962756/152700861-818ff432-8a21-4846-a7cd-66c0f3a5e25c.jpg)
 
@@ -96,11 +96,11 @@ Unsupervised, the World belongs to those willing to take it.
 
 Nothing, or everything.
 
-Those who die lose their physical bodies and their souls are moved to the Underworld as always, but there is no one to sort the pure from the wicked, no one to serve the good in Elysium or punish the evil in Ammit. Thus, the souls of the dead are thrown into disarray, and left to their own devices.
+Those who die, lose their physical bodies and their souls are moved to the Underworld, but there is no one to sort the pure from the wicked, no one to serve the good in Elysium or punish the evil in Ammit. Thus, the souls of the dead are thrown into disarray, and left to their own devices.
 
 Finding their way back to the land of the living is harder or easier depending on where their souls fell. Some will forever lose themselves in the tortuous labyrinth of Tartarus, while others will be enslaved by the more powerful souls of monsters too big to fit through the gates that take you back to the physical  World.
 
-Those who come back do so as ectoplasmic shadows and existence pains them until they find a body to inhabit. But, of course, that requires them to kill their host first. Bodies are the most valuable commodity, and souls are now willing to wreak havoc to obtain the most powerful bodies within their reach.
+Those who come back do so as ectoplasmic shadows and existence pains them until they find a body to inhabit. But of course, that requires them to kill their host first. Bodies are the most valuable commodity, and souls are now willing to wreak havoc to obtain the most powerful bodies within their reach.
 
 Now that death does not represent the end, life has acquired a new meaning, for both the living and the no longer dead.
 
@@ -150,7 +150,7 @@ There are 5 of them, and they are as powerful as empires and control regions as 
 They are known as: The Cult of Heaven, the Cult of Locus, the Cult of Death, the Cult of Sol, and the Cult of Hell.
 
 
-# **THE CULT OF HEAVEN**
+# **The Cult of Heaven**
 
 *“This is not what I was promised!”*
 
@@ -164,7 +164,7 @@ Their absolute leader is Gabriel, once a powerful Angel who took care of congreg
 
 
 
-# **THE CULT OF LOCUS**
+# **The Cult of Locus**
 
 *“What is a corpse but the sustenance for a thousand smaller souls?”*
 
@@ -186,7 +186,7 @@ How do they think they can achieve this feat when souls keep coming back from th
 So, they test. They experiment. They burn the Earth and test their killing on all who dare stand in their way. They use the darkest of magics, the evilest of weapons, and the weirdest of combinations. Before ending a life, they first recite a prayer of gratitude for giving yet another body to their cause. They keep track of all their murders in their Tome of Death, their sacred book. If the soul killed appears back in the Underworld, they cross off that method and improve new ones searching for their ultimate purpose.	If they find the way to die forever, they will use it upon themselves—finally giving up their bodies, and their souls.
 
 
-# **THE CULT OF SOL**
+# **The Cult of Sol**
 
 *“She still shines on us”*
 
@@ -199,7 +199,7 @@ And that is what the followers of Sol do, burn everyone else on their path. The 
 ![Cult of Sol - concept](https://user-images.githubusercontent.com/97962756/152700903-275eda45-285c-4f93-848d-5f101154895d.jpeg)
 
 
-# **THE CULT OF HELL**
+# **The Cult of Hell**
 
 *“Our turn”*
 
