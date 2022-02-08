@@ -172,7 +172,9 @@ Death is rebirth. Maybe not for the dying, but a thousand souls will feast on th
 
 In a way, the Cult of Locus opposes most of the other Cults, as they are the greatest defenders of the living. They always avoid taking lives and will take in anyone who wants to join them. In a macabre way, they are the only Cult that respects and loves its members equally.
 
-All that the Cult of Locus asks of its members is to give their physical bodies to their Biowitches, magicians who take away all feeling from their bodies and graft them into its nests for loci,mushrooms and other small creatures who feed and grow from there. Thus, a life becomes a thousand and the wave of death is delayed another day.
+All that the Cult of Locus asks of its members is to give their physical bodies to their Biowitches, magicians who take away all feeling from their bodies and graft them into its nests for loci,mushrooms and other small creatures who feed and grow from there. 
+
+One life becomes a thousand and the wave of death is delayed another day.
 
 
 # **THE CULT OF DEATH**
