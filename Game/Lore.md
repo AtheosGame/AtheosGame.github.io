@@ -96,7 +96,7 @@ Unsupervised, **the World belongs to those willing to take it.**
 
 Nothing, or everything.
 
-Those who die, lose their physical bodies and their souls are moved to the Underworld, but there is no one to sort the pure from the wicked, no one to serve the good in Elysium or punish the evil in Ammit. Thus, the souls of the dead are thrown into disarray, and left to their own devices.
+Those who die, lose their physical bodies and their souls are moved to the Underworld, but there is no one to sort the pure from the wicked, no one to serve the good in Elysium or punish the evil in Ammit. The souls of the dead are thrown into disarray, and left to their own devices.
 
 Finding their way back to the land of the living is harder or easier depending on where their souls fell. Some will forever lose themselves in the tortuous labyrinth of Tartarus, while others will be enslaved by the more powerful souls of monsters too big to fit through the gates that take you back to the physical  World.
 
