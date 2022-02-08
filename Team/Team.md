@@ -11,7 +11,7 @@ label: Team Members
 Game designer for tabletopgames and RPGs. Consultant Game Designer for Ubisoft
 |||
 
-||| Guillermo Gomez 
+||| Guillermo Gomez Tapia
 
 ||| Co-Creator
 Co-founded Cubiex in 2018, an eSports streaming platform in the blockchain ecosystem
