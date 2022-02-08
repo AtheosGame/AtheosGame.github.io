@@ -9,8 +9,8 @@ Staking is the process of committing (vesting) tokens into a **Smart Contract**
 [$ARPG](https://atheosgame.github.io/tokenomics/arpgtoken/) holders will be able to stake their tokens and receive the following rewards:
 
 - Access to the [governance system](https://atheosgame.github.io/governance/fairgovernance/), allowing users to actively shape the future of Atheos.
-- **Earn** $ARPG as a reward for the long term commitment.
-- **30%** of all $ARPG that will ever exist will be distributed as staking rewards.
+- Earn $ARPG as a reward for the long term commitment.
+- 30% of all $ARPG that will ever exist will be distributed as staking rewards.
 - Once the game matures a **Revenue Distribution** scheme [(RevDis)](https://atheosgame.github.io/tokenomics/treasury/) will be implemented.
 
 Atheos will offer three different types of pools:
