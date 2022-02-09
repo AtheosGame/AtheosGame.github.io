@@ -6,10 +6,8 @@ branding:
   title: Atheos
   label: Docs
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
 - text: Atheos Website
-  link: http://18.156.153.42/
+  link: http://http://atheosgame.com/
   
 footer:
   copyright: "&copy; Atheos The Game Copyright {{ year }}. All rights reserved."
