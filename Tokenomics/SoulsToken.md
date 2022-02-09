@@ -17,6 +17,7 @@ Players will spend $Souls to buy [Dungeon Maps](https://atheosgame.github.io/gam
 
 
 *Once the game's economy has developed, players will be able to trade items in **Atheos Marketplace** using $Souls.*
+![](soulsgraph1.jpg)
 
 #### Soul Events
 

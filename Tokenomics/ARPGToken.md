@@ -18,7 +18,7 @@ Users that stake $ARPG will be able to determine the future of Atheos, and recei
 
  - **Cosmetic Store:**  Users will be able to buy cosmetic items directly from the store.  There will be cosmetic items for characters, sanctuaries, enclaves and more. Limited cosmetic items will be released periodically.
 
-![](atheosgraph1.png)
+![](atheosgraph1.jpg)
 
 
 
