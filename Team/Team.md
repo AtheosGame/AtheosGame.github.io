@@ -31,6 +31,7 @@ https://www.linkedin.com/in/luis-gomez-quintana-lgq/
 
 ||| Co-Creator
  Art Director
+ https://www.artstation.com/storkdesign/albums/4857698
 |||
 
 
@@ -39,6 +40,7 @@ https://www.linkedin.com/in/luis-gomez-quintana-lgq/
 ||| Game Designer 
 Creator of Path of Diablo   
 Consulted for Grinding Gears Games on Path of Exile and Blizzard on Diablo II Resurrected
+https://pathofdiablo.com/
 |||
 
 
