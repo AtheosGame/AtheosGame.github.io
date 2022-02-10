@@ -7,7 +7,7 @@ branding:
   label: Docs
 links:
 - text: Atheos Website
-  link: http://http://atheosgame.com/
+  link: http://atheosgame.com/
   
 footer:
   copyright: "&copy; Atheos The Game Copyright {{ year }}. All rights reserved."
