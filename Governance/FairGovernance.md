@@ -1,6 +1,6 @@
 ---
 label: What is Fair Governance
-order: 100
+order: 95
 ---
 # What is Fair Governance? 
 
