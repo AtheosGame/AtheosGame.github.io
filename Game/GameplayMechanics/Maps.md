@@ -8,7 +8,7 @@ order: 90
 
 Dungeon Maps are NFTs that can be owned and traded. 
 
-Dungeon Maps can be purchased via the vendor NPC for a fixed [$SOULS](https://atheosgame.github.io/tokenomics/soulstoken/) price depending on the dungeon level, traded in the marketplace or traded in-game between players.
+Dungeon Maps can be purchased via the vendor NPC for a fixed [$Souls](https://atheosgame.github.io/tokenomics/soulstoken/) price depending on the dungeon level, traded in the marketplace or traded in-game between players.
 
 There are three types of maps:
 
