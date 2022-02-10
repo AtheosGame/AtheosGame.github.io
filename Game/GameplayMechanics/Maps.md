@@ -3,6 +3,9 @@ label: Maps
 order: 90
 ---
 # Maps
+
+![Skycity](https://user-images.githubusercontent.com/97962756/153312886-7033bbfb-6a18-40e7-a2b7-5c8b0a95d2c2.jpg)
+
 Dungeon Maps are NFTs that can be owned and traded. 
 
 Dungeon Maps can be purchased via the vendor NPC for a fixed [$SOULS](https://atheosgame.github.io/tokenomics/soulstoken/) price depending on the dungeon level, traded in the marketplace or traded in-game between players.
