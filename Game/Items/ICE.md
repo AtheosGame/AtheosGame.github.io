@@ -11,7 +11,7 @@ Item theory-crafting is one of our passions.
 
 We wanted to design an ARPG game with meaningful challenges that hopefully enhance the players experience with its environment. RnG would no longer be factor in the quality of items that the player is rewarded, and instead your skill and understanding of your own limitations will determine the quality of the rewards.
 
-Introducing...  
+
 ## Item Creation Engine (ICE)
 
 **ICE is about gamifying the creation of NFTs.**
