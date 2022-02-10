@@ -1,5 +1,5 @@
 ---
-label: Intro
+label: Governance Introduction
 order: 100
 ---
 
