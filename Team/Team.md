@@ -37,7 +37,7 @@ https://www.linkedin.com/in/luis-gomez-quintana-lgq/
 
 ||| Dan Keer "Greendude"
 
-||| Game Designer 
+||| Systems Designer 
 Creator of Path of Diablo   
 Consulted for Grinding Gears Games on Path of Exile and Blizzard on Diablo II Resurrected  
 https://pathofdiablo.com/
@@ -59,5 +59,11 @@ Head of Digital Investing Application Management at Coutts - Zurich Private Bank
 |||
 
 
+||| Adam Clegg
 
+||| Game Advisor
+15+ Years experience in Game Development. Game and Level design for H1Z1, Planetside 2 and more
+https://www.linkedin.com/in/adam-clegg-1856b614/
+
+|||
 
