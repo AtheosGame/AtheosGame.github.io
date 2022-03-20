@@ -30,7 +30,8 @@ https://www.linkedin.com/in/luis-gomez-quintana-lgq/
 ||| Lucas Gomez Alonso
 
 ||| Co-Creator
- Art Director
+ Art Director. Cinematography.
+Concept designer, illustrator for video games and books.
  https://www.artstation.com/storkdesign/albums/4857698
 |||
 
