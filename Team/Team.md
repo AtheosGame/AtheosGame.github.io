@@ -68,3 +68,11 @@ https://www.linkedin.com/in/adam-clegg-1856b614/
 
 |||
 
+||| Antony Faby
+
+||| Game Advisor
+Senior Producer - Dev and Ops at EA Partners / EA Originals
+https://www.linkedin.com/in/antonyfaby/
+
+|||
+
