@@ -23,7 +23,8 @@ https://www.linkedin.com/in/carlos-gomez-quintana-97903b128/
 ||| Luis G.Q.
 
 ||| Co-Creator
-Luis has a track record of providing digital solutions for startups and major corporations alike. A lover of blockchain and DevOps, Luis feels at home developing and coding its way out of bottlenecks.
+Digital Solutions Architect
+DevSecOps Engineer
 https://www.linkedin.com/in/luis-gomez-quintana-lgq/
 |||
 
