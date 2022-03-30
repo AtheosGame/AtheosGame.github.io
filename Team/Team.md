@@ -12,7 +12,7 @@ Co-founder of Cubiex in 2018, a Blockchain eSports streaming platform.
 https://www.linkedin.com/in/gomta/
 |||
 
-||| Carlos G.Q.
+||| Carlos G.Q. 
 
 ||| Co-Creator
 Game designer for various tabletopgames and RPGs.   
@@ -23,7 +23,7 @@ https://www.linkedin.com/in/carlos-gomez-quintana-97903b128/
 ||| Luis G.Q.
 
 ||| Co-Creator
-Digital Solutions Architect
+Digital Solutions Architect  
 DevSecOps Engineer
 https://www.linkedin.com/in/luis-gomez-quintana-lgq/
 |||
