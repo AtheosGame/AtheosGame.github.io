@@ -46,6 +46,12 @@ https://pathofdiablo.com/
 |||
 
 
+||| Petros Afshar
+
+||| UI/UX Designer 
+https://www.behance.net/petrosafshar   
+|||
+
 ||| Fabio Castagna 
 
 ||| Full-stack Developer
@@ -67,6 +73,14 @@ Head of Digital Investing Application Management at Coutts - Zurich Private Bank
 15+ Years experience in Game Development. Game and Level design for H1Z1, Planetside 2 and more
 https://www.linkedin.com/in/adam-clegg-1856b614/
 
+|||
+
+||| Eric Guan
+
+||| Economy and Game Advisor
+Product strategy, Monetization and Economy design at Riot (7 years)
+Head of Economy Design at SuperLayer
+https://www.linkedin.com/in/eric-guan-6b122875/
 |||
 
 ||| Antony Faby
