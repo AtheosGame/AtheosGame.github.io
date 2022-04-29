@@ -49,7 +49,7 @@ https://pathofdiablo.com/
 ||| Petros Afshar
 
 ||| UI/UX Designer  
-Typography, graphic design, animation, branding, illustration and UI/UX design
+Typography, graphic design, animation, branding, illustration and UI/UX design   
 https://www.behance.net/petrosafshar   
 |||
 
