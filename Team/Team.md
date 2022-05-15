@@ -66,6 +66,23 @@ https://www.behance.net/JonathanLam
 Product Manager, Full Stack Developer. Management, development and employment of new technologies
 |||
 
+||| Aaron Martinez
+
+||| Blockchain Engineer
+Co-CEO, COO at Arker labs SL - IT solutions, Blockchain Development
+|||
+
+||| Juan Jose Chust
+
+||| Blockchain Engineer
+CEO at Arker labs SL - IT solutions, Blockchain Development
+|||
+
+||| Nelson Marco Sanchez
+
+||| Blockchain Engineer
+CIO at Arker labs SL - IT solutions, Blockchain Development
+|||
 
 
 ||| Uraitz de Julian Garate
