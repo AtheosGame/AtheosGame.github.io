@@ -53,6 +53,13 @@ Typography, graphic design, animation, branding, illustration and UI/UX design
 https://www.behance.net/petrosafshar   
 |||
 
+||| Jonathan Lam
+
+||| Game Artist 
+Concept Art, 3D Modelling, Graphic Design, Illustration, Matte Painting, Motion Graphics, Texture Art  
+https://www.behance.net/JonathanLam
+|||
+
 ||| Fabio Castagna 
 
 ||| Full-stack Developer
