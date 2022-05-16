@@ -7,14 +7,14 @@ label: Team Members
 
 ||| Guillermo Gomez Tapia
 
-||| Co-Creator
+||| Co-Creator & CEO
 Co-founder of Cubiex in 2018, a Blockchain eSports streaming platform.
 https://www.linkedin.com/in/gomta/
 |||
 
 ||| Carlos G.Q. 
 
-||| Co-Creator
+||| Co-Creator & Game Designer
 Game designer for various tabletopgames and RPGs.   
 Consultant Game Designer for Ubisoft.
 https://www.linkedin.com/in/carlos-gomez-quintana-97903b128/
@@ -22,7 +22,7 @@ https://www.linkedin.com/in/carlos-gomez-quintana-97903b128/
 
 ||| Luis G.Q.
 
-||| Co-Creator
+||| Co-Creator & CTO
 Digital Solutions Architect  
 DevSecOps Engineer
 https://www.linkedin.com/in/luis-gomez-quintana-lgq/
@@ -30,7 +30,7 @@ https://www.linkedin.com/in/luis-gomez-quintana-lgq/
 
 ||| Lucas Gomez Alonso
 
-||| Co-Creator
+||| Co-Creator & Art Director
  Art Director. Cinematography.
 Concept designer, illustrator for video games and books.
  https://www.artstation.com/storkdesign/albums/4857698
@@ -39,7 +39,7 @@ Concept designer, illustrator for video games and books.
 
 ||| Dan Keer "Greendude"
 
-||| Systems Designer 
+||| Co-Creator & Systems Designer 
 Creator of Path of Diablo   
 Consulted for Grinding Gears Games on Path of Exile and Blizzard on Diablo II Resurrected  
 https://pathofdiablo.com/
