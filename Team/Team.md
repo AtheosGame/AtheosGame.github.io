@@ -116,3 +116,12 @@ https://www.linkedin.com/in/antonyfaby/
 
 |||
 
+||| Khaled Alroumi
+
+||| Economy Advisor
+Game Systems and Economy designer having worked for Illuvium, Sand Forge Games and Think Gate Software.
+https://www.linkedin.com/in/khaled-alroumi-70b222b7/
+
+|||
+
+
