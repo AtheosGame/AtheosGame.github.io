@@ -1,6 +1,6 @@
 ---
 label: Manifestos
-order: 75
+order: 65
 ---
 
 ### Manifestos
