@@ -26,11 +26,11 @@
     
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=1.11.2.707169071268" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=1.11.2.707169110076" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.707169071268" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.707169110076" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=1.11.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.707169071268" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.707169110076" defer></script>
 </head>
     <body>
         <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -249,12 +249,14 @@
 </table>
 </div>
 </doc-panel>
-<p>$ARPG Distribution over time chart:</p>
+<doc-panel id="arpg-distribution-over-time-chart">
+    <template #title><strong>$ARPG Distribution over time chart:</strong></template>
 <p><figure class="content-center">
     <img src="https://user-images.githubusercontent.com/47843020/170882803-ecf622e7-2fb7-4675-a22e-158365fdbf25.png" alt="ARPG Issuance" />
     <figcaption class="caption">ARPG Issuance</figcaption>
 </figure>
 </p>
+</doc-panel>
 
 
 
