@@ -1,5 +1,5 @@
 ---
-order: 80
+order: 85
 label: Public Sale
 ---
 # Public Sale
