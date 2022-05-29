@@ -20,7 +20,7 @@ Players can earn $Souls by completing Quests, winning PvP matches, participating
 Players can **Burn** the items in exchange for $Souls.  This process is done at the [Forge](https://atheosgame.github.io/game/commongrounds/the-forge/), which will destroy the item permanently. 
 
 #### **Spending $Souls**   
-Players will burn $Souls (destroyed) to buy [Dungeon Maps] within the game (https://atheosgame.github.io/game/gameplaymechanics/maps/). 
+Players will burn $Souls (destroyed) to buy [Dungeon Maps](https://atheosgame.github.io/game/gameplaymechanics/maps/) within the game.
 
 The price of these maps will be proportionate to the level of the map. 
 Higher-level maps provide more challenging experiences and will offer better loot rewards. 
