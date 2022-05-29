@@ -1,5 +1,5 @@
 ---
-label: Souls Token
+label: $Souls
 order: 95
 ---
  
