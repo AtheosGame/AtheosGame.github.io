@@ -1,5 +1,5 @@
 ---
-label: ARPG
+label: $ARPG
 order: 98
 
 ---
