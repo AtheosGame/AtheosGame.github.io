@@ -12,7 +12,7 @@ The purpuse of $Souls coin is to maintain in-game balance for players to enjoy a
 Treasury will mint/burn tokens to maintain the in-game balance and the stability of its price. 
 If a higher price hits, supply will increase to match the price balance and viceversa.
 
-$Souls is an in-game token which **is not** meant to be used as means of speculation.   **$Souls is not an invesetment coin.**
+$Souls is an in-game token which **is not** meant to be used as means of speculation.  **$Souls is not an investment coin.**
 
 #### **Acquiring $Souls**  
 Players can earn $Souls by completing Quests, winning PvP matches, participating in events, and can find it organically as they explore dungeons and defeat enemies. 
