@@ -1,5 +1,5 @@
 ---
-order: 60
+order: 40
 label: Game Fund
 ---
 # Game Fund
@@ -20,3 +20,5 @@ Distribution       | Amount       | Percentage
 ---                | ---          | ---
 Game Fund          | 12.000.000   | 12 %
 ===
+
+
