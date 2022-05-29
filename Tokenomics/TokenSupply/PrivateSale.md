@@ -16,3 +16,7 @@ Distribution       | Amount       | Percentage
 Seed               | 5.000.000    | 5 %
 Private sale       | 15.000.000   | 15 %
 ===
+
+# Private Sale Vesting Period
+
+Pre Seed and Seed tokens will receive 1/24 of their tokens in August 2023, with an equal unlock every month through August 2024.
