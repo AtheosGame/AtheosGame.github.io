@@ -4,7 +4,7 @@ order: 100
 ---
 # Token Supply 
 
-**$ARPG** will have a limited total supply of **100 Million** tokens.  **$ARPG** will be issued over a five-year course, following a predetermined schedule. The initial circulating supply will be of precisely **18.100.000** tokens, **18.1%** of the total supply,  and it will grow up to 100 million tokens over a period of **62 months**. 
+**$ARPG** will have a limited total supply of **100 Million** tokens.  **$ARPG** will be issued over a five-year course, following a predetermined schedule. The initial circulating supply will be of precisely **18.100.000** tokens, **18.1%** of the total supply,  and it will grow up to 100 million tokens over a period of **60 months**. 
 
 The following schematic represents how **$ARPG** interacts within the Atheos ecosystem:
 
