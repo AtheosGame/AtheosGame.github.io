@@ -3,17 +3,26 @@ label: Souls Token
 order: 95
 ---
 
-# Souls Token
-**$Souls:**  
-Atheos in-game currency with unlimited supply. This token will be minted and burned as players progress through the game.  
+### **Token: $Souls**  
+Atheos **in-game currency** with **unlimited supply.**  
+
+The purpuse of $Souls coin is to maintain in-game balance for players to enjoy and experience the game.
+
+Treasury will mint/burn tokens to maintain the in-game balance and the stability of its price. 
+If a higher price hits, supply will increase to match the price balance and viceversa.
+
+$Souls is an in-game token which **is not** meant to be used as means of speculation.   **$Souls is not an invesetment coin.**
 
 #### **Acquiring $Souls**  
 Players can earn $Souls by completing Quests, winning PvP matches, participating in events, and can find it organically as they explore dungeons and defeat enemies. 
 
-Players can **smelt** the items, burning them in exchange for $Souls.  This process is done at the [Forge](https://atheosgame.github.io/game/commongrounds/the-forge/), which will destroy the item permanently. 
+Players can **Burn** the items in exchange for $Souls.  This process is done at the [Forge](https://atheosgame.github.io/game/commongrounds/the-forge/), which will destroy the item permanently. 
 
 #### **Spending $Souls**   
-Players will burn (The tokens will be destroyed) $Souls to buy [Dungeon Maps](https://atheosgame.github.io/game/gameplaymechanics/maps/). The price of these maps will be proportionate to the level of the map. Higher-level maps provide more challenging experiences and will offer with better loot rewards. 
+Players will burn $Souls (destroyed) to buy [Dungeon Maps] within the game (https://atheosgame.github.io/game/gameplaymechanics/maps/). 
+
+The price of these maps will be proportionate to the level of the map. 
+Higher-level maps provide more challenging experiences and will offer better loot rewards. 
 
 
 *Once the game's economy has developed, players will be able to trade items in **Atheos Marketplace** using $Souls.*
