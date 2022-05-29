@@ -21,4 +21,4 @@ Distribution       | Amount       | Percentage
 [Game Fund](https://atheosgame.github.io/tokenomics/tokensupply/gamefund/)             | 12.000.000   | 12 %
 ===
 
-The chart below showcases how we will issue $ARPG over time:
+
