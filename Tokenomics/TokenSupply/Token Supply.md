@@ -21,4 +21,8 @@ Distribution       | Amount       | Percentage
 [Game Fund](https://atheosgame.github.io/tokenomics/tokensupply/gamefund/)             | 12.000.000   | 12 %
 ===
 
+Here you can see how ARP tokens will be unlocked through time:
+
+![image](https://user-images.githubusercontent.com/47843020/170882803-ecf622e7-2fb7-4675-a22e-158365fdbf25.png)
+
 
