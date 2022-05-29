@@ -22,8 +22,8 @@ Players can **Burn** the items in exchange for $Souls.  This process is done at 
 #### **Spending $Souls**   
 Players will burn $Souls (destroyed) to buy [Dungeon Maps](https://atheosgame.github.io/game/gameplaymechanics/maps/) within the game.
 
-The price of these maps will be proportionate to the level of the map. 
-Higher-level maps provide more challenging experiences and will offer better loot rewards. 
+The price of these maps will be proportionate to the difficulty of the map. 
+Higher-difficulty maps provide more challenging experiences and will offer better loot rewards. 
 
 
 *Once the game's economy has developed, players will be able to trade items in **Atheos Marketplace** using $Souls.*
