@@ -13,7 +13,6 @@ The following schematic represents how **$ARPG** interacts within the Atheos eco
 Distribution       | Amount       | Percentage | Lock-up & Vesting
 ---                | ---          | ---        | ---
 [Private Sale](https://atheosgame.github.io/tokenomics/tokensupply/privatesale/)       | 20.000.000   | 20 % | 1 year full lock + 1/24 monthly
-
 [Public Sale](https://atheosgame.github.io/tokenomics/tokensupply/publicsale/)         | 10.000.000   | 10 % | -
 [Staking](https://atheosgame.github.io/tokenomics/tokensupply/staking/)                | 30.000.000   | 30 % | Differs by pool. TBA
 [Team](https://atheosgame.github.io/tokenomics/tokensupply/team/)                      | 15.000.000   | 15 % | 2 year full lock + 1/24 monthly
