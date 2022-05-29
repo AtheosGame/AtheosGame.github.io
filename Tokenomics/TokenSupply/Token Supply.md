@@ -16,9 +16,8 @@ Distribution       | Amount       | Percentage | Lock-up & Vesting
 [Public Sale](https://atheosgame.github.io/tokenomics/tokensupply/publicsale/)         | 10.000.000   | 10 % | -
 [Staking](https://atheosgame.github.io/tokenomics/tokensupply/staking/)                | 30.000.000   | 30 % | Differs by pool. TBA
 [Team](https://atheosgame.github.io/tokenomics/tokensupply/team/)                      | 15.000.000   | 15 % | 2 year full lock + 1/24 monthly
-[Advisors/Alliances](https://atheosgame.github.io/tokenomics/tokensupply/advisors/)    | 3.000.000    | 3 %  | 1 year full lock + 1/24 monthly
-[Game Fund](https://atheosgame.github.io/tokenomics/tokensupply/gamefund/)             | 12.000.000   | 12 % | -
-[In-game Rewards](https://atheosgame.github.io/tokenomics/tokensupply/ingamerewards/)  | 10.000.000   | 10 % | -
+[Advisors/Alliances](https://atheosgame.github.io/tokenomics/tokensupply/advisors/)    | 5.000.000    | 5 %  | 1 year full lock + 1/24 monthly
+[Game Fund](https://atheosgame.github.io/tokenomics/tokensupply/gamefund/)             | 10.000.000   | 20 % | -
 
 ===
 
