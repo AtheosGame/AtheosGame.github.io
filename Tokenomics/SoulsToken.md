@@ -2,8 +2,9 @@
 label: Souls Token
 order: 95
 ---
+ 
+# Token: $Souls
 
-### **Token: $Souls**  
 Atheos **in-game currency** with **unlimited supply.**  
 
 The purpuse of $Souls coin is to maintain in-game balance for players to enjoy and experience the game.
