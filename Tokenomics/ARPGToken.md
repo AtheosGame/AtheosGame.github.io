@@ -4,7 +4,7 @@ order: 98
 ---
 # Token: $ARPG
 
-Atheos RPG (**$ARPG**) is a governance token with limited supply of 100,000,000 Tokens.  
+Atheos RPG (**$ARPG**) is a governance token with limited supply of **100,000,000 Tokens**.  
 
 $ARPG tokens bind the Atheos ecosystem together, blurring the lines between investors, players and developers by pooling power, responsibility, and aligning their incentives. 
 
