@@ -29,7 +29,7 @@ Higher-difficulty maps provide more challenging experiences and will offer bette
 *Once the game's economy has developed, players will be able to trade items in **Atheos Marketplace** using $Souls.*
 ![](soulsgraph1.jpg)
 
-#### Soul Events
+#### Treasury Events
 
 Every time a player does an in-game transaction involving $Souls, **10% of the token's spent** will be transferred back to the [Treasury](https://atheosgame.github.io/tokenomics/treasury/) and into the **Soul Counter Reservoir (SCR)** , with the rest of the tokens being burned. 
 
