@@ -6,7 +6,8 @@ label: Atheos
 
 ![Atheos](https://user-images.githubusercontent.com/97962756/152704233-7e820795-eeb0-4bb0-b24c-1eb8217f58e3.jpg)
 
-Atheos is an **Action RPG** video game in the making that aims to close the gap between blockchain video games and the traditional gaming market.
+
+**Atheos is an Action RPG video game in the making that aims to close the gap between blockchain video games and the traditional gaming market where each run is about crafting you and your items. Item theory-crafting is one of our passions, and in Atheos every run will be meaningful through our Item Creation Engine (ICE) that enables us to gamify the creation of NFTs**
 
 We hear and understand the gaming community. We need real games, real playability, simplified platforms, token systems with purpose and actual values. Above everything else, we need games that make us want to come back to play them, for the challenges, experiences and overall enjoyment.
 
