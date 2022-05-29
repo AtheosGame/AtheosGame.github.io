@@ -4,7 +4,7 @@ label: ARPG Token
 ---
 # ARPG Token
 
-Atheos RPG (**$ARPG**) is a governance token with limited supply.  
+Atheos RPG (**$ARPG**) is a governance token with limited supply of 100,000,000 Tokens.  
 
 $ARPG tokens bind the Atheos ecosystem together, blurring the lines between investors, players and developers by pooling power, responsibility, and aligning their incentives. 
 
@@ -16,7 +16,7 @@ Users that stake $ARPG will be able to determine the future of Atheos, and recei
 
  - **Governance:** We want to provide the Atheos community with an unprecedented opportunity to connect and interact in a constant open communication channel between developers, players and stakers. Users will be able to participate in a number of key votes that will determine the future of Atheos. 	
 
- - **Cosmetic Store:**  Users will be able to buy cosmetic items directly from the store.  There will be cosmetic items for characters, sanctuaries, enclaves and more. Limited cosmetic items will be released periodically.
+ - **Microtransactions:**  Users will be able to buy cosmetic items directly from the store.  There will be cosmetic items for characters, sanctuaries, enclaves and more. Limited cosmetic items will be released periodically.
 
 ![](atheosgraph1.jpg)
 
