@@ -10,15 +10,15 @@ The following schematic represents how **$ARPG** interacts within the Atheos eco
 
 === **Token distribution:**
 
-Distribution       | Amount       | Percentage
----                | ---          | ---
-[Staking](https://atheosgame.github.io/tokenomics/tokensupply/staking/)               | 30.000.000   | 30 %
-[In-game Rewards](https://atheosgame.github.io/tokenomics/tokensupply/ingamerewards/)             | 10.000.000   | 10 %
-[Team](https://atheosgame.github.io/tokenomics/tokensupply/team/)                      | 15.000.000   | 15 %
-[Advisors/Alliances](https://atheosgame.github.io/tokenomics/tokensupply/advisors/)   | 3.000.000    | 3 %
-[Private Sale](https://atheosgame.github.io/tokenomics/tokensupply/privatesale/)       | 20.000.000   | 20 %
-[Public Sale](https://atheosgame.github.io/tokenomics/tokensupply/publicsale/)         | 10.000.000   | 10 %
-[Game Fund](https://atheosgame.github.io/tokenomics/tokensupply/gamefund/)             | 12.000.000   | 12 %
+Distribution       | Amount       | Percentage | Lock-up & Vesting
+---                | ---          | ---        | ---
+[Staking](https://atheosgame.github.io/tokenomics/tokensupply/staking/)                | 30.000.000   | 30 % | Differs by pool
+[In-game Rewards](https://atheosgame.github.io/tokenomics/tokensupply/ingamerewards/)  | 10.000.000   | 10 % |
+[Team](https://atheosgame.github.io/tokenomics/tokensupply/team/)                      | 15.000.000   | 15 % | 2 year full lock + 1/24 monthly
+[Advisors/Alliances](https://atheosgame.github.io/tokenomics/tokensupply/advisors/)    | 3.000.000    | 3 %  | 1 year full lock + 1/24 monthly
+[Private Sale](https://atheosgame.github.io/tokenomics/tokensupply/privatesale/)       | 20.000.000   | 20 % | 1 year full lock + 1/24 monthly
+[Public Sale](https://atheosgame.github.io/tokenomics/tokensupply/publicsale/)         | 10.000.000   | 10 % |
+[Game Fund](https://atheosgame.github.io/tokenomics/tokensupply/gamefund/)             | 12.000.000   | 12 % |
 ===
 
 Here you can see how ARP tokens will be unlocked through time:
