@@ -1,6 +1,7 @@
 ---
+label: ARPG
 order: 98
-label: Token: $ARPG
+
 ---
 # Token: $ARPG
 
