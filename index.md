@@ -6,11 +6,13 @@ label: Atheos
 
 ![Atheos](https://user-images.githubusercontent.com/97962756/152704233-7e820795-eeb0-4bb0-b24c-1eb8217f58e3.jpg)
 
-Atheos is an Action RPG video game in the making that aims to close the gap between blockchain video games and the traditional gaming market where each run is about crafting your own items. **Item theory-crafting** is one of our passions, and in Atheos every run will be meaningful through our Item Creation Engine (ICE) that enables us to gamify the creation of NFTs
+Atheos is an Action RPG video game in the making that aims to close the gap between blockchain video games and the traditional gaming market.
+
+Each run is about crafting your own items and your own character. **Item theory-crafting** is one of our passions, and in Atheos every run will be meaningful through our Item Creation Engine (ICE) that enables us to **gamify the creation of NFTs.**
 
 **Every run will be meaningful** with our [**Item Creation Engine (ICE)**](https://atheosgame.github.io/game/items/ice/)
 
-We will **Fight to Create**, instead of **Fight to Find**. Changing completely the way we grind in the RPG genre. We want to avoid the feeling of pointless grinding doing countless hours of playtime without any meaningful rewards.
+We will **Fight to Create**, instead of **Fight to Find**.  Changing completely the way we grind in the RPG genre. We want to avoid the feeling of pointless grinding doing countless hours of playtime without any meaningful rewards.
 
 Atheos players will create unique items of metadata in the form of **Non Fungible Tokens (NFTs)** in every successful level run. This adds new layers of complexity and uniqueness creating your own items in a video game, not just finding them.
 
