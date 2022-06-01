@@ -22,7 +22,7 @@ order: 95
   
 4. **FIRST LEVEL REWARD:** The first reward is random, with higher rarity chances than usual, which will make the item more desirable and encourage you to continue. After accepting the reward, you will be presented with 3 different Gates.  Choose one.
  
-5. **GATES:** You are presented with three gates, each leading to a different level and a different reward type. You cannot go back, so deciding the right gate is an important choice for item building. 
+5. **[GATES:](https://atheosgame.github.io/game/gameplaymechanics/gates/)** You are presented with three gates, each leading to a different level and a different reward type. You cannot go back, so deciding the right gate is an important choice for item building. 
 Each gate has an icon, which tells you the type of reward you can expect:
 (e.g. you are presented with the following three gates: ‘Damage increase’, ‘Fire rune’, ‘Lightning rune’).  
 You cannot know the rarity of the reward from looking at the gate, only the type. Alternatively, at this point you can choose to exit the dungeon.
