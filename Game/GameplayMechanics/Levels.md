@@ -1,10 +1,10 @@
 ---
-label: Dungeon Levels
+label: Levels
 order: 80
 ---
 # LEVELS
 
-Each dungeon level presents a unique challenge and a reward.
+Each Map Level presents a unique challenge and a reward.
 
 * **1st level:** The first room provides a random reward, which is always magical or better.
 
