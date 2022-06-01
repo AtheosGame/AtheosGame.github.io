@@ -6,7 +6,7 @@ order: 88
 # Overview
 Atheos is a **dungeon crawling** action role-playing, **hack-and-slash** video game.  
 
-You control a **Shadow** (Character) as it attempts to obtain a **skin** (Class). A shapeless being that has spent so much time in the Underworld that it has forgotten all about who they were before.  
+You control a **Shadow** (Character) as it attempts to obtain a **Skin** (Class). A shapeless being that has spent so much time in the Underworld that it has forgotten all about who they were before.  
 
 You must venture into dungeons to acquire body parts to regain a physical body and to forge powerful items to help you in your journey.
 
@@ -16,7 +16,7 @@ The game has a **hack-and-slash** combat system. You can move, dash and attack, 
 
 Atheos gameplay is full of challenging **levels** within each **dungeon map**.  
 
-**Every successful level completion enhances your item by adding one irremovable upgrade.**
+**Every successful level completion enhances your item by adding one modifier stat upgrade.**
 
 If you leave the dungeon alive your upgraded item will become a unique **NFT** which you can use, trade or burn. 
 
