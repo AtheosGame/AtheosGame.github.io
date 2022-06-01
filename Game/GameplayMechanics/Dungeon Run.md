@@ -14,11 +14,11 @@ order: 95
 
 **Player Journey:**
 
-1. **USE DUNGEON MAP:** Use a Map that leads to a specific dungeon with specific characteristics, each dungeon has a theme and a unique Boss.
+1. **USE MAP:** Use a Map that leads to a specific dungeon with specific characteristics, each dungeon has a theme and a unique Boss.
  
 2. **ITEM CHOICE:** Choose a base item you wish to upgrade. If you are successful in clearing a level, you will obtain an NFT item with the chosen upgrades. *Keep the **NFT item** after a successful level clear or continue at the risk of loosing the item.* 
  
-3. **FIRST LEVEL BATTLE:** You must fight random monsters in a procedurally generated level for the first reward. Upon defeating all the enemies, you gain the reward modifier stat which is added to your item.
+3. **[LEVEL 1:](https://atheosgame.github.io/game/gameplaymechanics/levels/)** You must fight random monsters in a procedurally generated level for the first reward. Upon defeating all the enemies, you gain the reward modifier stat which is added to your item.
   
 4. **FIRST LEVEL REWARD:** The first reward is random, with higher rarity chances than usual, which will make the item more desirable and encourage you to continue. After accepting the reward, you will be presented with 3 different Gates.  Choose one.
  
