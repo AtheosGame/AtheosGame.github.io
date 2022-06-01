@@ -9,7 +9,7 @@ order: 95
 * **1. Buy Maps.**  Use [$Souls](https://atheosgame.github.io/tokenomics/soulstoken/) to buy **Maps** from the game's NPCs or through trading.  *(Initiation map cost = 0)*   
 * **2. Activate Maps.**  Choose **1 item** you wish to enhance when activating your Map by dragging your selected item onto the Map.
 * **3. Enter the Dungeon.** 
-* **4. Clear the Dungeon.** Clear up to **7 levels**. Each level completion adds **unique modifiers stats** to said item.  
+* **4. Clear 7 Levels**. Each level completion adds **unique modifiers stats** to said item.  
 * **5. Repeat.** Higher-Level Maps will offer better rewards.
 
 **Player Journey:**
