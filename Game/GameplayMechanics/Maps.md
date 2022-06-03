@@ -4,7 +4,8 @@ order: 90
 ---
 # Maps
 
-![Skycity](https://user-images.githubusercontent.com/97962756/153312886-7033bbfb-6a18-40e7-a2b7-5c8b0a95d2c2.jpg)
+<img width="1391" alt="Dungeon Maps" src="https://user-images.githubusercontent.com/97962756/171795516-3f97d331-8386-452e-90b4-d791ca87f1fc.png">
+
 
 Dungeon Maps are NFTs that can be owned and traded. 
 
