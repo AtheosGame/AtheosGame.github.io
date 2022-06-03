@@ -16,11 +16,11 @@ Players might have more than one shadow slot and **exchange** items between them
 Finally, Shadows can imbue themselves into a **Skin** which binds their class direction which is **Soulbound**.
 
 ## Stats:
-**Strength:** Determines how much damage you deal.
-**Dexterity:** Determines how likely you are to hit a critical hit, and the chance to block an enemy attack if equipped with a shield.
-**Speed:** Determines how likely you are to dodge an attack, how fast (often) you attack and how fast you move through the map.
-**Endurance:** Determines your Health amount.
-**Magic:** Determines your Mana amount.
+**Strength:** Determines how much damage you deal.  
+**Dexterity:** Determines how likely you are to hit a critical hit, and the chance to block an enemy attack if equipped with a shield.  
+**Speed:** Determines how likely you are to dodge an attack, how fast (often) you attack and how fast you move through the map.  
+**Endurance:** Determines your Health amount.  
+**Magic:** Determines your Mana amount.  
 
 **Experience:**
 After gaining a certain amount of experience the Shadow will level up, which will allow you to increase its stats. Leveling up becomes gradually harder and stats have a ceiling.
