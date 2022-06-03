@@ -10,9 +10,9 @@ All players start using the characer **Shadow** from the beginning.
 
 Players might have more than one shadow slot and **exchange** items between them.
 
-**Shadows** have **Stats** and **Levels**, and can obtain **Organs** for **skills** and a wide variety of **weapons** and **item** slots.
+**Shadows** have **Stats** and **Levels**, and can obtain **Organs** for **Skills** and a wide variety of **Weapons** and **Item** slots.
 
-Finally, Shadows can imbue themselves into a **Skin** which binds their class direction which is **soulbound**.
+Finally, Shadows can imbue themselves into a **Skin** which binds their class direction which is **Soulbound**.
 
 ## Stats:
 **Strength:** Determines how much damage you deal.
@@ -31,11 +31,6 @@ There are **4 types of Organs:** Cerebrums, Heart, Lung, Guts
 You can use one slot for each organ type.
 Each Organ will grant you a **unique ability.** (E.g. "Blaze Dragon's" lungs allow you to throw a fireball every 15' while the "Lion's heart" brings you back to life with 10% health once per dungeon run).
 You can swap Organs before every run, but never during a dungeon run.
-
-**Skins:**
-Skins are the most important upgrade on a character, akin to a **Class** in similar games.
-Each Skin will provide you with a **special ability** or attack and many **perceptual buffs** to the skin's areas of expertise.
-There are many skins, all belonging to the humanoid version of the bosses of the game, which you as a Shadow can possess after killing them. Each focuses on one of the three aspects of the game: **Damage dealing, Tanking or Support** abilities. Choose wisely a skin that synergies with your Organs and items.
 
 **Inventory:**
 As a player, you have a **limitless inventory** in which you can store Shadows, Organs, Skins and Items.
