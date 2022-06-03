@@ -4,6 +4,9 @@ order: 100
 ---
 ## Shadow
 
+<img width="1403" alt="Shadow" src="https://user-images.githubusercontent.com/97962756/171800301-6c33c9f4-cc48-40ca-bebd-b68aff6a0cef.png">
+
+
 All players start using a **shadow** character from the beginning.
 
 Players might have more than one shadow slot and **exchange** items between them.
