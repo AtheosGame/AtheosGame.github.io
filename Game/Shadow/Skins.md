@@ -14,5 +14,5 @@ There are **3 types of Skins**:
 * **Tanking**
 * **Support**
 
-Choose wisely a skin that synergies with your Organs and Items.
+Choose wisely a Skin that synergies well with your Organs and Items.
 
