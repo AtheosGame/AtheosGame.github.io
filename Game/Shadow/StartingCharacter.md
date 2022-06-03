@@ -1,8 +1,7 @@
 ---
-label: Starting Character: Shadow
+label:  Starting Character:Shadow
 order: 100
 ---
-## Shadow
 
 <img width="1403" alt="Shadow" src="https://user-images.githubusercontent.com/97962756/171800301-6c33c9f4-cc48-40ca-bebd-b68aff6a0cef.png">
 
