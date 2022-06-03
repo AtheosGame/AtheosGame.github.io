@@ -6,15 +6,15 @@ order: 95
 # THE DUNGEON RUN
 **Core Game Loop**: 
 
-* **1. Buy Maps.**  Use [$Souls](https://atheosgame.github.io/tokenomics/soulstoken/) to buy **Maps** from the game's NPCs or through trading.  *(Initiation map cost = 0)*   
+* **1. Buy Maps.**  Use **[$Souls](https://atheosgame.github.io/tokenomics/soulstoken/)** to buy **[Maps](https://atheosgame.github.io/game/gameplaymechanics/maps/)** from the game's NPCs or through trading.  *(Initiation map cost = 0)*   
 * **2. Activate Maps.**  Choose **1 item** you wish to enhance when activating your Map by dragging your selected item onto the Map.
 * **3. Enter the Dungeon.** 
-* **4. Clear 7 Levels**. Each level completion adds **unique modifiers stats** to said item.  
+* **4. Clear 7 Levels**. Each level completion adds **unique stat enhancement** to said item.  
 * **5. Repeat.** Higher-Level Maps will offer better rewards.
 
 **Player Journey:**
 
-1. **ENTER DUNGEON:** Activate your [Map](https://atheosgame.github.io/game/gameplaymechanics/maps/) by dragging a base item to it and use it to enter the Dungeon.
+1. **ENTER DUNGEON:** Activate your Map by dragging a base item to it and use it to enter the Dungeon.
  
 2. **[LEVEL 1:](https://atheosgame.github.io/game/gameplaymechanics/levels/)** You must fight random monsters in a procedurally generated level for the first reward. Upon defeating all the enemies, you gain the reward modifier stat which is added to your item.
   
