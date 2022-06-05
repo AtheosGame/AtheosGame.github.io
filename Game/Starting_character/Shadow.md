@@ -1,5 +1,5 @@
 ---
-label: Shadow
+label: Starting Character
 order: 100
 ---
 
