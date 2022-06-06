@@ -1,5 +1,5 @@
 ---
-label: Starting Character
+label: Main Character: Shadow
 order: 100
 ---
 
