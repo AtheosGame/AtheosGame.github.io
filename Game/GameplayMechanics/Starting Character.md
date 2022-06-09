@@ -3,8 +3,7 @@ label: Starting Character - Shadow
 order: 100
 ---
 
-<img width="1403" alt="Shadow" src="https://user-images.githubusercontent.com/97962756/171800301-6c33c9f4-cc48-40ca-bebd-b68aff6a0cef.png">  
-
+<img width="1403" alt="Shadow" src="https://user-images.githubusercontent.com/97962756/171800301-6c33c9f4-cc48-40ca-bebd-b68aff6a0cef.png">   
 
 
 All players start using the characer **Shadow** from the beginning.
