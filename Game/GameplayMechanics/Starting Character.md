@@ -11,7 +11,7 @@ All players start using the characer **Shadow** from the beginning.
 Players might have more than one shadow slot and **exchange** items between them.
 
 **Shadows** have **Stats** and **Levels**, and can obtain **Organs** for **Skills** and a wide variety of **Weapons** and **Item** slots.
-c
+
 Finally, Shadows can imbue themselves into a **Skin** which binds their class direction which is **Soulbound**.
 
 ## Stats:
