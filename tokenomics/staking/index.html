@@ -24,11 +24,11 @@
     
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=1.11.2.714516598214" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=1.11.2.714516898642" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.714516598214" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.714516898642" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=1.11.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.714516598214" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.714516898642" defer></script>
 </head>
     <body>
         <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -191,37 +191,8 @@ Staking is the process of committing (vesting) tokens into a <strong>Smart Cont
 <p><a href="https://atheosgame.github.io/tokenomics/arpgtoken/">$ARPG</a> holders will be able to stake their tokens and receive the following rewards:</p>
 <ul>
 <li>Access to the <a href="https://atheosgame.github.io/governance/fairgovernance/">governance system</a>, allowing users to actively shape the future of Atheos.</li>
-<li>Earn $ARPG as a reward for the long term commitment.</li>
-<li>30% of all $ARPG that will ever exist will be distributed as staking rewards.</li>
-<li>Once the game matures a <strong>Revenue Distribution</strong> scheme <a href="https://atheosgame.github.io/tokenomics/treasury/">(RevDis)</a> will be implemented.</li>
+<li>Revenue Distribution <a href="https://atheosgame.github.io/tokenomics/treasury/">(RevDis)</a>, rewarding stakers with a % of the revenue generated.</li>
 </ul>
-<p>Atheos will offer three different types of pools:</p>
-<ul>
-<li><strong>Main Staking pool:</strong> This will be Atheos ongoing pool; anyone will be able to stake tokens into it at any given time. The vesting period of the initial deposit will be of two years, while any rewards will have a vesting period of 6 months.</li>
-<li><strong>Token-limited pools:</strong> Every few months, new limited pools will open. These pools will close once the maximum number of tokens have been vested into them. The vesting period of each pool will vary, with its rewards increasing proportionally. The rewards will be unlocked in stages, starting halfway through the initial vesting period.</li>
-<li><strong>Liquidity pools:</strong> Users that want to stake tokens but do not want a vesting period can take part of liquidity pools. This pools will offer smaller rewards but will have no vesting period for the initial deposit or the rewards. Also, users will be able to earn a commission for all the trades conducted within the liquidity pool.</li>
-</ul>
-<doc-panel id="token-distribution">
-    <template #title>Token distribution:</template>
-<div class="table-wrapper scrollbar overflow-hidden">
-<table class="comfortable">
-<thead>
-<tr>
-<th>Distribution</th>
-<th>Amount</th>
-<th>Percentage</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Staking</td>
-<td>30.000.000</td>
-<td>30 %</td>
-</tr>
-</tbody>
-</table>
-</div>
-</doc-panel>
 
 
 
