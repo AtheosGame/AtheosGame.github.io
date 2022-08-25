@@ -1,13 +1,13 @@
 ---
 order: 85
-label: Public Sale
+label: Launchpad
 ---
-# Public Sale
+# Launchpad
 
 
 
 === Token Supply
 Distribution       | Amount       | Percentage
 ---                | ---          | ---
-Public sale        | 10.000.000   | 10 %
+Launchpad        | 10.000.000   | 10 %
 ===
